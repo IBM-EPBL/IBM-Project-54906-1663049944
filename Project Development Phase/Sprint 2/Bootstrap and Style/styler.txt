@@ -1,0 +1,68 @@
+
+
+h1 {
+   margin: 70px auto;
+   text-align: center;
+}
+fieldset{
+  border: none;
+  padding: 2rem o;
+  border-bottom:3px solid rgb(242, 229, 243);
+  
+}
+label{
+  display:block;
+  margin: 15px 0;
+  color: black;
+}
+
+input{ 
+  width: 100%;
+  border: none;
+  margin: 5px 0;
+  min-height: 25px;
+  border-bottom:3px solid rgb(214, 208, 208);
+  background-color: white;
+}
+select{
+  width: 100%;
+  margin: 5px 0;
+  min-height: 25px;
+}
+fieldset:last-of-type{
+  border: none;
+}
+img{
+ padding-left:110px;
+  width:40px;
+  margin-left:20px;
+  padding-bottom: 10px;
+  padding-top: 5px;
+  
+}
+placeholder{
+  color: rgb(61, 55, 55);
+}
+fieldset>p{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+
+.Sign_Up{
+  width: 100%;
+  padding: 10px;
+  border: none;
+  margin: 10px 0;
+  min-height: 25px;
+  border-radius: 10px;
+  background-color:rgb(168, 168, 231);
+  color: white;
+  font-size: medium;
+  cursor: pointer;
+}
+.Sign_Up:hover{
+  background-color: rgb(223, 203, 233);
+}

@@ -1,0 +1,83 @@
+#mainNav{
+    background-color: lavender;
+}
+
+#Banner{
+    background-color:rgb(91, 91, 141);
+    height: 500px;
+    background-repeat: no-repeat;
+    padding: 0px;
+    margin: 0px;
+    opacity:3px;
+    
+}
+#Services{
+    background-color:red;
+    height: 150px;
+    background-repeat: no-repeat;
+    padding: 0px;
+    margin: 0px;
+}
+.Sign_up_btn{
+    width: 100PX;
+    padding: 10px;
+    border: none;
+    margin: 10px 0;
+    min-height: 25px;
+    border-radius: 10px;
+    background-color:rgb(168, 168, 231);
+    color: white;
+    font-size: medium;
+    cursor: pointer;   
+    border: none;
+}
+.Login_in_btn{
+    width: 100PX;
+    padding: 10px;
+    border: none;
+    margin: 10px 0;
+    min-height: 25px;
+    border-radius: 10px;
+    background-color:rgb(168, 168, 231);
+    color: white;
+    font-size: medium;
+    cursor: pointer;   
+    border: none;}
+    
+.Sign_up_btn:hover{
+    background-color: rgb(223, 203, 233);
+  }
+.Login_in_btn:hover{
+    background-color: rgb(223, 203, 233);
+  }
+.Login_in_btn1{
+    border: none;
+    display:inline;
+}
+.Sign_up_btn1{
+    border: none;
+    display:inline;
+}
+.call_to_action{
+    border: none;
+    padding:10px;
+    width: 200px;
+    border-radius:10px;
+}
+.card-img-top{
+    margin: 0px;
+    padding: 0px;
+}
+.list-unstylted{
+    margin: 0px;
+    padding: 0px;
+}
+a{
+    text-decoration: none;
+    text-size-adjust: 100px;
+    font-size:large;
+}
+.time_table,tr,td{
+    border: 1px solid black;
+    padding:10px;
+}
