@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>UAEP</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi"
+      crossorigin="anonymous"
+    />
+    <!-- Bootstrap icons-->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <!--Common Style-->
+    <link rel="stylesheet" href="static/style.css" />
+    <!--For SignUp page-->
+    <link rel="stylesheet" href="static/styler.css" />
+    <!--For Login page-->
+    <link rel="stylesheet" href="static/stylel.css" />
+  </head>
+  <body>
+    <!--Nav Bar-->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
+      <div class="container px-5">
+          <a class="navbar-brand fw-bold" href="#page-top">University Admission Predictor</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+              Menu
+              <i class="bi-list"></i>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
+              <li class="nav-item first">
+                <button
+                  data-bs-target="#modal_s"
+                  data-bs-toggle="modal"
+                  class="Sign_up_btn nav-link me-lg-3"
+                >
+                  SignUp
+                </button>
+              </li>
+              <li class="nav-item">
+                <button
+                  data-bs-target="#modal_l"
+                  data-bs-toggle="modal"
+                  class="Login_in_btn nav-link me-lg-3"
+                >
+                  Login
+                </button>
+              </li>
+            </ul>
+            
+          </div>
+      </div>
+  </nav>
+    
+      
+      <!-- Sign up Modal-->
+      <div
+        class="modal fade"
+        id="modal_s"
+        abindex="-1"
+        aria-labelledby="exampleModalLabel"
+        aria-hidden="true"
+        id="sign_modal"
+      >
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button
+                type="button"
+                class="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div class="modal-body">
+              <form style="margin: 0px" action="">
+                <fieldset>
+                  <h3>Registration</h3>
+                  <label for="first-name"
+                    >First Name:
+                    <input
+                      type="text"
+                      id="first-name"
+                      required
+                      placeholder="Eg:John Doe"
+                    />
+                  </label>
+                  <label for="mail"
+                    >Email:
+                    <input
+                      type="email"
+                      id="mail"
+                      required
+                      placeholder="john.doe@gmail.com"
+                    />
+                  </label>
+                  <label for="pwd"
+                    >Password:
+                    <input
+                      type="password"
+                      id="pwd"
+                      required
+                      placeholder="hhh"
+                    />
+                  </label>
+                  <label
+                    >Who Are U?
+                    <select id="select" class="Type_User">
+                      <option value="1">User-"Looking for admission"</option>
+                      <option value="2">College Students</option>
+                      <option value="3">Alumni</option>
+                      <option value="4">Educational Experts</option>
+                    </select>
+                    <button class="Sign_Up">Sign UP</button>
+                  </label>
+                </fieldset>
+                <fieldset>
+                  <p style="margin: 15px 0">Sign Up With:</p>
+                  <a href="#">
+                    <img src="Image/google.jpeg" alt="NON" />
+                  </a>
+                  <a href="#">
+                    <img src="/Image/LinkedIn.jpeg" alt="non" />
+                  </a>
+                </fieldset>
+                <fieldset>
+                  <p style="display: inline; margin-left: 150px">
+                    If Already a member
+                  </p>
+                  <button
+                    data-bs-target="#modal_l"
+                    data-bs-toggle="modal"
+                    class="Login_in_btn1"
+                  >
+                    Login
+                  </button>
+                </fieldset>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--Modal Login-->
+      <div
+        class="modal fade"
+        id="modal_l"
+        abindex="-1"
+        aria-labelledby="exampleModalLabel"
+        aria-hidden="true"
+      >
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button
+                type="button"
+                class="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div class="modal-body">
+              <form style="margin: 0px" action="">
+                <fieldset>
+                  <h3>Login</h3>
+                  <label for="mail"
+                    >Email:
+                    <input
+                      type="email"
+                      id="mail"
+                      required
+                      placeholder="john.doe@gmail.com"
+                    />
+                  </label>
+                  <label for="pwd"
+                    >Password:
+                    <input
+                      type="password"
+                      id="pwd"
+                      required
+                      placeholder="hhh"
+                    />
+                  </label>
+                  <p style="text-align: end">
+                    <a href="#"> Forget Password? </a>
+                  </p>
+                  <button class="login_btn">Login</button>
+                </fieldset>
+                <fieldset>
+                  <p style="margin: 15px 0">Login With:</p>
+                  <a href="#">
+                    <img
+                      src="static/image/google.jpeg"
+                      alt=".."
+                    />
+                  </a>
+                  <a href="#">
+                    <img
+                      src="static/image/LinkedIn.jpeg"
+                      alt=".."
+                    />
+                  </a>
+                </fieldset>
+                <fieldset>
+                  <p>
+                    Don't Have Account Yet?
+                    <button
+                      data-bs-target="#modal_s"
+                      data-bs-toggle="modal"
+                      class="Sign_up_btn1"
+                    >
+                      SignUp
+                    </button>
+                  </p>
+                </fieldset>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <!--Main Part-->
+    <div class="container-fluid" id="Banner">
+      <br /><br /><br /><br /><br /><br />
+      <div class="container position-relative">
+        <div class="row justify-content-center">
+          <div class="text-center text-white">
+            <h1 style="text-align: center">
+              University Eligibility Admission Prediction
+            </h1>
+            <button class="call_to_action">What's My Chance?</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--Services-->
+    <section class="features-icons bg-light text-center">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
+              <h3>Prediction</h3>
+              <p class="lead mb-0"> You Can Predict Based On  Preferred Courses,Location And MARK</p>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
+              <h3>Comparsion</h3>
+              <p class="lead mb-0">You Can Compare Collegs</p>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="features-icons-item mx-auto mb-0 mb-lg-3">
+              <h3 style="margin:0px;">Informations</h3>
+              <p class="lead mb-0">You Can Take A Trip To Colleges</p>
+            </div>
+          </div>
+            <div class="col-lg-6">
+              <div class="features-icons-item mx-auto mb-0 mb-lg-3">
+                <h3 >Interaction</h3>
+                <p class="lead mb-0">You Can Interact With Alumi,Educational Experts And More Verifed Users</p>
+              </div>           
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--Preferred Course-->
+    <br><br>
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-lg-4">
+          <article>
+            <header class="mb-2">
+              <h2 style="display: inline ; color:rgb(112, 82, 139); margin-bottom: 100px;">Colleges Based On Your Preferred Course</h1><br><br>
+            </header>
+          </article>
+          <div class="card mb-4">
+            <a href="#!"
+              ><img
+                class="card-img-top"
+                src="static/image/CARE-BACK-Top.jpg"
+                alt="..."
+            /></a>
+            <div class="card-body">
+              <h2 class="card-title h4">CARE College Of Engineering,Trichy</h2>
+              <a class="btn btn-primary" href="#!">Take A Trip→</a>
+            </div>
+          </div>
+          <!-- Blog post-->
+          <div class="card mb-4">
+            <a href="#!"
+              ><img class="card-img-top" src="static/image/ceg_campus.jpeg" alt="..."
+            /></a>
+            <div class="card-body">
+              <h2 class="card-title h4">Anna University CEG,Chennai</h2>
+              <a class="btn btn-primary" href="#!">Take A Trip→</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <!-- Blog post-->
+          <div class="card mb-4">
+            <a href="#!"
+              ><img class="card-img-top" src="static/image/slider1.jpg" alt="..."
+            /></a>
+            <div class="card-body">
+              <h2 class="card-title h4">PSG College of Technology, Coimbatore</h2>
+              <a class="btn btn-primary" href="#!">Take A Trip→</a>
+            </div>
+          </div>
+          <!-- Blog post-->
+          <div class="card mb-4">
+            <a href="#!"
+              ><img
+                class="card-img-top"
+                src="static/image/bannari-amman-institute-of-technology-bait-coimbatore.jpg"
+                alt="..."
+            /></a>
+            <div class="card-body">
+              <h2 class="card-title h4">Bannari Amman Institute of Technology, Erode</h2>
+              <a class="btn btn-primary" href="#!">Take A Trip→</a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Side widgets-->
+        <div class="col-lg-4">
+          <!-- Search widget-->
+          <div class="card mb-4">
+            <div class="card-header">Search</div>
+            <div class="card-body">
+              <div class="input-group">
+                <input
+                  class="form-control"
+                  type="text"
+                  placeholder="Enter search term..."
+                  aria-label="Enter search term..."
+                  aria-describedby="button-search"
+                />
+                <button
+                  class="btn btn-primary"
+                  id="button-search"
+                  type="button"
+                >
+                  Go!
+                </button>
+              </div>
+            </div>
+          </div>
+          <!-- Categories widget-->
+          <div class="card mb-4">
+            <div class="card-header">Top University</div>
+            <div class="card-body">
+              <div class="row">
+                <marquee behaviour="scroll" direction="up" scrollamount="4">
+                  <ul class="list-unstyled m-0 p-0">
+                    <li>
+                      <a style="color: black" href="#"
+                        >Easwari Engineering College, Chennai</a
+                      >
+                    </li>
+                    <li>
+                      <a href="#" style="color: black">MIT Chennai, Chennai</a>
+                    </li>
+                    <li>
+                      <a href="#" style="color: black"
+                        >Chennai Institute of Technology,Chennai.</a
+                      >
+                    </li>
+                    <li>
+                      <a href="#" style="color: black">PEC Chennai, Chennai</a>
+                    </li>
+                    <li>
+                      <a href="#" style="color: black">VEC Chennai, Chennai</a>
+                    </li>
+                    <li>
+                      <a href="#" style="color: black"
+                        >VEC Kanchipuram, Kanchipuram</a
+                      >
+                    </li>
+                    <li>
+                      <a href="#" style="color: black"
+                        >PSG College of Technology, Coimbatore</a
+                      >
+                    </li>
+                    <li>
+                      <a href="#" style="color: black"
+                        >Bannari Amman Institute of Technology, Erode</a
+                      >
+                    </li>
+                    <li>
+                      <a href="#" style="color: black"
+                        >Kongu Engineering College, Erode</a
+                      >
+                    </li>
+                    <li>
+                      <a href="#" style="color: black"
+                        >Mahendra Engineering College, Namakkal</a
+                      >
+                    </li>
+                  </ul>
+                </marquee>
+              </div>
+            </div>
+          </div>
+          <!-- Side widget-->
+          <div class="card mb-2">
+            <div class="card-header">Time and Deadline</div>
+            <div class="card-body">
+              <table class="time_table">
+                <tr>
+                  <th>Exam</th>
+                  <th>Registration Starts</th>
+                  <th>Deadline</th>
+                </tr>
+                <tr>
+                  <td>JEE</td>
+                  <td>August 12</td>
+                  <td>September 10</td>
+                </tr>
+                <tr>
+                  <td>National Level Engineering Entrance Exams</td>
+                  <td>September 15</td>
+                  <td>January 25</td>
+                </tr>
+                <tr>
+                  <td>JEE Advanced</td>
+                  <td>November 19</td>
+                  <td>February31</td>
+                </tr>
+                <tr>
+                  <td>
+                    Engineering Agricultural and Medical Common Entrance Test
+                  </td>
+                  <td>January 30</td>
+                  <td>February14</td>
+                </tr>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!--Script Page-->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
