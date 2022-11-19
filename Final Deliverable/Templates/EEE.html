@@ -1,0 +1,122 @@
+<html>
+    <head>
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="wideth=device-maximum, initial-scale=1">
+            <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+            <title>Electrical and Electronics Engineering</title>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+            <link rel="icon" type="image/x-icon" href="static/images/favicon.ico">
+            <link rel="stylesheet" type="text/css"  href="{{ url_for('static', filename='department.css')}}">
+            <style>
+                body{
+                    background-image: url('https://energyoffice.colorado.gov/sites/energyoffice/files/styles/large_thumbnail_450x450_/public/powerlines_at_sunset_0.jpg.webp');
+                    filter: blur(75%);
+                }
+            </style>
+    </head>
+    <body>
+        <header><marquee>University Admit Eligibility Predictor</marquee></header>
+        
+        <div class="topnav" id="myTopnav">
+            <a href="/" class="active" >Home</a>
+            <a href="/about" target="_blank">About</a>
+        </div>
+        
+        <div class="box3">
+            <div class="pic1">
+                <a href="https://en.wikipedia.org/wiki/Electrical_engineering" target="_blank">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUZS9MCJ2VT7pXLptbkRndWBrVzTEbNsQpIw&usqp=CAU" width= "250px" height="250px">
+                </a>
+            </div>
+        </div>
+
+        <div class="box2">
+            <div class="text">
+                <h4>To Know more about Electrical and Electronics Engineering</h4>
+                <ul>
+                    <li><a href="https://www.naukri.com/eee-jobs" target="_blank" class="link_a">Job vacancy</a></li>
+                    <li><a href="https://timesofindia.indiatimes.com/topic/electrical-and-electronics-engineering/news" target="_blank" class="link_a">Latest News!!</a></li>
+                </ul>  
+            </div>
+        </div>
+
+        <div class="text1">
+            <p><b>Here give your information and you will be able to see whether you are eligible for the preferred university.
+                You will also able to know more eligible Universitiesthat you are eligible for.</b>
+            </p>
+        </div>
+
+        <div class="box">
+            <div class="log">Enter Your Details</div><br><br>
+            <form name="eee" action="/eee" method="post">
+                <div class="input-icon">
+                    <i class="fas fa-percent ic"></i>
+                    <label class="twel">12th percentage :</label>
+                    <input class="tweltext" type="number" id="twelE" name="twelE" min="1" max="100" step="0.01" required>
+                </div><br>
+                <div class="input-icon">
+                    <i class="fas fa-map-marked ic"></i>
+                <label class="city" for="citiesE">City :</label>
+                <select class="citytext" value="citiesE" name="citiesE" required>
+                    <option></option>
+                    <option value="Bar">Baroda</option>
+                    <option value="Ban">Bangalore</option>
+                    <option value="Ch">Chennai</option>
+                    <option value="Hyd">Hyderabad</option>
+                    <option value="Moh">Mohali</option>
+                    <option value="ND">New Delhi</option>
+                    <option value="Pha">Phagwara</option>
+                    <option value="Pu">Pune</option>
+                    <option value="Pali">Pali</option>
+                    <option value="Tiru">Tiruchirappalli</option>                
+                    <option value="Vel">Vellore</option>  
+                </select>
+                </div><br>
+                <div class="input-icon">
+                <i class="fas fa-university ic"></i>
+                <label class="univ" for="uniE">University Name:</label>
+                <select class="univtext" value="uniE" name="uniE" required>
+                    <option></option>
+                    <option value="SRM">SRM Institute of Science and Technology</option>
+                    <option value="VIT">Vellore Institute of Technology</option>
+                    <option value="CU">Christ University</option>
+                    <option value="LPU">Lovely Professional University</option>
+                    <option value="SPPU">Savitribai Phule Pune University</option>
+                    <option value="GGSIU">Guru Gobind Singh Indraprastha University</option>
+                    <option value="RU">REVA University</option>
+                    <option value="IISB">Indian Institute of Science, Bangalore</option>
+                    <option value="CHU">Chandigarh University</option>
+                    <option value="NITT">National Institute of Technology Tiruchirappalli</option>
+                    <option value="SIST">Sathyabama Institute of Science and Technology</option>
+                    <option value="PUB">Presidency University, Bangalore</option>
+                    <option value="NITW">National Institute of Technology, Warangal</option>
+                    <option value="MGR">Dr MGR Educational and Research Institute</option>
+                    <option value="PES">PES University</option>
+                    <option value="MU">Manipal University</option>
+                    <option value="AU">Annamalai University</option>
+                    <option value="NITK">National Institute of Technology Karnataka</option>
+                    <option value="VNIT">Visvesvaraya National Institute of Technology</option>
+                    <option value="BITS">Birla Institute of Technology and Science</option>
+                </select>
+                </div>
+                <a href="{{url_for('eee')}}" id="eee"><input class="sub" type="submit" value="Let's Get Start"></a>
+            </form>
+        </div>
+        <div class="footer">
+            <h3>Contact Us:</h3>
+            <div class="icon">
+                <i class="fab fa-google"><label> Univeraitypredict@gmail.com</label></i>
+            </div><br><br>
+            <div class="icon">
+                <i class="fab fa-linkedin-in"><label> www.linkedin.com/in/Univeraitypredict</label></i>
+            </div><br><br>
+            <div class="icon">
+                <i class="fab fa-twitter"><label> https://twitter.com/Univeraitypredict</label></i>
+            </div>
+        </div>
+    </body>
+</html>
+
+

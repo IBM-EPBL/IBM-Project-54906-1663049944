@@ -1,0 +1,76 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="wideth=device-maximum, initial-scale=1">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+        <title>Home</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+        <link rel="icon" type="image/x-icon" href="static/images/favicon.ico">
+        <link rel="stylesheet" type="text/css"  href="{{ url_for('static', filename='style.css')}}">
+    </head>
+    <body>
+        <header><marquee>University Admit Eligibility Predictor</marquee></header>
+
+        <div class="topnav" id="myTopnav">
+            <a href="/" class="active" target="_blank">Home</a>
+            <a href="/about" target="_blank">About</a>
+          </div>
+
+        <div class="box1">
+            <div class="pic">
+                <img src="https://thumbs.dreamstime.com/b/business-intelligence-abstract-concept-vector-illustration-data-analysis-management-tools-enterprise-strategy-development-driven-204327386.jpg" alt="^-^" style="width:390px; height:470px; background-color: thistle;">
+                <p>“Keep a little fire burning; however small, however hidden.” <i>―Cormac McCarthy</i></p>
+            </div>
+        </div>
+
+        <div class="text">
+            <p>
+                <b>NAMASTE!!</b><br><br>
+                Hello aspiring and thirsty minds!! <br><br>
+                Are you eager to know about the Universities that you are eligible to get an admission with your academic profile? Then you are at the right place.<br><br>
+                Lets' Quench your thirst ^-^ <br><br>
+                Lets' Know your academic profile, your preferred location, the department and the University name that your thirsty mind shouting and know whether an admission is possible in the University.<br><br>
+                Else pen's up Here is the list of universities that you are eligible to get an admission.<br>
+            </p>
+        </div>
+        <div class="box">
+            <form action="/choose_dept" name="deptForm" method="POST">
+                <div class="input-icon">
+                    <i class="fas fa-graduation-cap ic"></i>
+                    <label class="dept" for="depts">Department :</label>
+                    <select class="depttext" value="depts" name="depts" required>
+                        <option disabled selected >Choose Department</option>
+                        <option value="civil">Civil Engineering</option>
+                        <option value="cse">Computer Science and Engineering</option>
+                        <option value="ece">Electronics and Communication Engineering</option>
+                        <option value="eee">Electrical and Eletronics Engineering</option>
+                        <option value="mech">Mechanical Engineering</option>
+                    </select>
+                </div>
+                <input class="sub" type="submit" value="Go..!">
+            </form>
+        </div>
+
+        <script>
+            function depPage(src)
+            {
+                location.replace(src);
+            }
+        </script>
+
+        <div class="footer">
+            <h3 style="color:antiquewhite">Contact Us:</h3>
+            <div class="icon">
+                <i class="fab fa-google"><label> Univeraitypredicto@gmail.com</label></i>
+            </div><br><br>
+            <div class="icon">
+                <i class="fab fa-linkedin-in"><label> www.linkedin.com/in/Univeraitypredict</label></i>
+            </div><br><br>
+            <div class="icon">
+                <i class="fab fa-twitter"><label> https://twitter.com/Univeraitypredict</label></i>
+            </div>
+        </div>
+        
+    </body>
+</html>

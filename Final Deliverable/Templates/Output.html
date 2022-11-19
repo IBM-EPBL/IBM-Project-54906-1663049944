@@ -1,0 +1,79 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="wideth=device-maximum, initial-scale=1">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+        <title>Result</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+        <link rel="icon" type="image/x-icon" href="static/images/favicon.ico">
+        <link rel="stylesheet" type="text/css"  href="{{ url_for('static', filename='style.css')}}">
+        <style>
+            .footer{
+                position:absolute;
+                width: 100%;
+                height: 155px;
+                top: 220%;
+                background-color: rgb(8, 8, 8);
+                opacity: 0.9;
+            }
+
+            .icon i{
+                position: absolute;
+                color: antiquewhite;
+            }
+
+            .icon{
+                width: 100%;
+                left: 10px;
+                opacity: 1;
+                color: antiquewhite;
+            }
+
+            
+        </style>
+    </head>
+    <body>
+        <header><marquee>University Admit Eligibility Predictor</marquee></header>
+
+        <div class="topnav" id="myTopnav">
+            <a href="/" class="active" target="_blank">Home</a>
+            <a href="/about" target="_blank">About</a>
+        </div>
+        
+        
+        <div class="output">
+            <p><h3>{{prediction}}</h3><br>
+                To get admit in the University you also have to pass the entrance exam that will be conduct by the respective Universities. 
+                The following list will give you more information about the Universities that you maybe eligible for as well as the pass percentage of the entrance exam.
+            </p>
+            <table class="table">
+                <tr class="table_head">
+                    {% for header in headings %}
+                    <th class="table_cell">{{header}}</th>
+                    {% endfor %}
+                </tr>
+                {% for row in d2 %}
+                <tr class="table_r">
+                    {% for cell in row %}
+                    <td>{{ cell }}</td>
+                    {% endfor %}
+                </tr>
+            {% endfor %}
+            </table>
+        </div>
+        <div class="footer">
+            <h3 style="color:antiquewhite">Contact Us:</h3>
+            <div class="icon">
+                <i class="fab fa-google"><label> Univeraitypredict@gmail.com</label></i>
+            </div><br><br>
+            <div class="icon">
+                <i class="fab fa-linkedin-in"><label> www.linkedin.com/in/Univeraitypredict</label></i>
+            </div><br><br>
+            <div class="icon">
+                <i class="fab fa-twitter"><label> https://twitter.com/Univeraitypredict</label></i>
+            </div>
+        </div>
+
+    </body>
+</html>

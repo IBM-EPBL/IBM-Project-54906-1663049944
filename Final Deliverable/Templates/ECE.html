@@ -1,0 +1,124 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+            <meta name="viewport" content="wideth=device-maximum, initial-scale=1">
+            <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+            <title>Electronics and Communication Engineering</title>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+            <link rel="icon" type="image/x-icon" href="static/images/favicon.ico">
+            <link rel="stylesheet" type="text/css"  href="{{ url_for('static', filename='department.css')}}">
+            <style>
+                body{
+                    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9_dPrdV0F1rhV986FhB_7aQT98PgL2AAmfA&usqp=CAU');
+                    filter: blur(75%);
+                }
+            </style>
+    </head>
+    <body>
+        <header><marquee>University Admit Eligibility Predictor</marquee></header>
+        
+        <div class="topnav" id="myTopnav">
+            <a href="/" class="active" >Home</a>
+            <a href="/about" target="_blank">About</a>
+        </div>
+
+        <div class="box3">
+            <div class="pic1">
+                <a href="https://en.wikipedia.org/wiki/Electronic_engineering" target="_blank">
+                    <img src="https://www.quotemaster.org/images/93/9325eb7548e6e41f9cca39a3d88fb3eb.jpg" width= "250px" height="250px">
+                </a>
+            </div>
+        </div>    
+
+        <div class="box2">
+            <div class="text">
+                <h4>To Know more about Electronics and Communication Engineering</h4>
+                <ul>
+                    <li><a href="https://www.naukri.com/ece-jobs" target="_blank" class="link_a">Job vacancy</a></li>
+                    <li><a href="https://www.electronicsforu.com/news?utm_source=google&utm_medium=cpc&utm_campaign=New-latest-tech-14-10-2021&source=google&medium=adwords&campaign={campaign}&adgroup={adgroup}&keywords={keywords}&device=c&matchtype=b&gclid=CjwKCAjwh4ObBhAzEiwAHzZYU_wAWONx3KvIIuvRv4tqSEX26wBbzDx-fT3hV6bT8lqQhl-elQnywBoCO34QAvD_BwE" target="_blank" class="link_a">Latest News!!</a></li>
+                </ul>  
+            </div>
+        </div>
+
+        <div class="text1">
+            <p><b>Here give your information and you will be able to see whether you are eligible for the preferred university.
+                You will also able to know more eligible Universitiesthat you are eligible for.</b>
+            </p>
+        </div>
+
+        <div class="box">
+            <div class="log">Enter Your Details</div><br><br>
+            <form name="ece" action="/ece" method="post">
+                <div class="input-icon">
+                <i class="fas fa-percent ic"></i>
+                <label class="twel">12th percentage :</label>
+                <input class="tweltext" type="number" id="twelEC" name="twelEC" min="1" max="100" step="0.01" required>
+                </div><br>
+                <div class="input-icon">
+                <i class="fas fa-map-marked ic"></i>
+                <label class="city" for="cities">City :</label>
+                <select class="citytext" value="citiesEC" name="citiesEC" required>
+                    <option></option>
+                    <option value="Ban">Bangalore</option>
+                    <option value="Ch">Chennai</option>
+                    <option value="Chid">Chidambaram</option>
+                    <option value="Jai">Jaipur</option>
+                    <option value="Man">Mangalore</option>
+                    <option value="Moh">Mohali</option>
+                    <option value="Nag">Nagpur</option>>
+                    <option value="ND">New Delhi</option>
+                    <option value="Pha">Phagwara</option>
+                    <option value="Pu">Pune</option>
+                    <option value="Pal">Palani</option>
+                    <option value="Tiru">Tiruchirappalli</option>                
+                    <option value="Vel">Vellore</option>
+                   <option value="War">Warangal</option>    
+                </select>
+                </div><br>
+                <div class="input-icon">
+                <i class="fas fa-university ic"></i>
+                <label class="univ" for="univName">University Name:</label>
+                <select class="univtext" value="uniEC" name="uniEC" required>
+                    <option></option>
+                    <option value="JMI">Jamia Millia Islamia</option>
+                    <option value="SRM">SRM Institute of Science and Technology</option>
+                    <option value="MSUB">Maharaja Sayajirao University of Baroda</option>
+                    <option value="VIT">Vellore Institute of Technology</option>
+                    <option value="CU">Christ University</option>
+                    <option value="LPU">Lovely Professional University</option>
+                    <option value="DTU">Delhi Technological University</option>
+                    <option value="IITM">Indian Institute of Technology, Madras</option>
+                    <option value="UD">University of Delhi</option>
+                    <option value="SPPU">Savitribai Phule Pune University</option>
+                    <option value="GGSIU">Guru Gobind Singh Indraprastha University</option>
+                    <option value="JH">Jamia Hamdard</option>
+                    <option value="RU">REVA University</option>
+                    <option value="IISB">Indian Institute of Science, Bangalore</option>
+                    <option value="JNU">Jawaharlal Nehru University</option>
+                    <option value="CHU">Chandigarh University</option>
+                    <option value="NITT">National Institute of Technology Tiruchirappalli</option>
+                    <option value="IITD">Indian Institute of Technology,Delhi</option>
+                    <option value="UH">University of Hyderabad</option>
+                    <option value="SIST">Sathyabama Institute of Science and Technology</option>
+                </select>
+                </div>
+                <input class="sub" type="submit" value="Let's Get Start">
+              </form>
+        </div>
+        <div class="footer">
+            <h3>Contact Us:</h3>
+            <div class="icon">
+                <i class="fab fa-google"><label> Univeraitypredict@gmail.com</label></i>
+            </div><br><br>
+            <div class="icon">
+                <i class="fab fa-linkedin-in"><label> www.linkedin.com/in/Univeraitypredict</label></i>
+            </div><br><br>
+            <div class="icon">
+                <i class="fab fa-twitter"><label> https://twitter.com/Univeraitypredict</label></i>
+            </div>
+        </div>
+    </body>
+</html>
+
+
