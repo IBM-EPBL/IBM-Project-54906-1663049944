@@ -1,0 +1,790 @@
+S.NO,University Name,District,12th Percentage,Entrance Percentage,Department,Output
+1,Aligarh Muslim University,Aligarh,55,80,Computer Science and Engineering,Yes
+2,Aligarh Muslim University,Aligarh,85,80,Computer Science and Engineering,Yes
+3,Aligarh Muslim University,Aligarh,74,80,Computer Science and Engineering,Yes
+4,Aligarh Muslim University,Aligarh,92,80,Computer Science and Engineering,Yes
+5,Aligarh Muslim University,Aligarh,19,80,Computer Science and Engineering,No
+6,Aligarh Muslim University,Aligarh,69,80,Computer Science and Engineering,Yes
+7,Aligarh Muslim University,Aligarh,61,80,Computer Science and Engineering,Yes
+8,Aligarh Muslim University,Aligarh,23,80,Computer Science and Engineering,No
+9,Aligarh Muslim University,Aligarh,46,80,Computer Science and Engineering,No
+10,Aligarh Muslim University,Aligarh,54,80,Computer Science and Engineering,No
+11,Aligarh Muslim University,Aligarh,35,80,Computer Science and Engineering,No
+12,Annamalai University,Chidambaram,55,60,Electical and Electonics Engineering,Yes
+13,Annamalai University,Chidambaram,74,60,Electical and Electonics Engineering,Yes
+14,Annamalai University,Chidambaram,69,60,Electical and Electonics Engineering,Yes
+15,Annamalai University,Chidambaram,62,60,Electical and Electonics Engineering,Yes
+16,Annamalai University,Chidambaram,43,60,Electical and Electonics Engineering,No
+17,Annamalai University,Chidambaram,39,60,Electical and Electonics Engineering,No
+18,Annamalai University,Chidambaram,27,60,Electical and Electonics Engineering,No
+19,Annamalai University,Chidambaram,52,60,Electical and Electonics Engineering,No
+20,Annamalai University,Chidambaram,50,60,Electical and Electonics Engineering,No
+21,Annamalai University,Chidambaram,36,60,Electical and Electonics Engineering,No
+22,Annamalai University,Chidambaram,88,60,Electical and Electonics Engineering,Yes
+23,Annamalai University,Chidambaram,95,60,Electical and Electonics Engineering,Yes
+24,Banaras Hindu University,Varanasi,50,60,Computer Science and Engineering,Yes
+25,Banaras Hindu University,Varanasi,79,60,Computer Science and Engineering,Yes
+26,Banaras Hindu University,Varanasi,67,60,Computer Science and Engineering,Yes
+27,Banaras Hindu University,Varanasi,45,60,Computer Science and Engineering,No
+28,Banaras Hindu University,Varanasi,19,60,Computer Science and Engineering,No
+29,Banaras Hindu University,Varanasi,56,60,Computer Science and Engineering,Yes
+30,Banaras Hindu University,Varanasi,36,60,Computer Science and Engineering,No
+31,Banaras Hindu University,Varanasi,49,60,Computer Science and Engineering,No
+32,Banaras Hindu University,Varanasi,25,60,Computer Science and Engineering,No
+33,Banaras Hindu University,Varanasi,88,60,Computer Science and Engineering,Yes
+34,Birla Institute of Technology and Science,Palani,75,75,Electical and Electonics Engineering,Yes
+35,Birla Institute of Technology and Science,Palani,79,75,Electical and Electonics Engineering,Yes
+36,Birla Institute of Technology and Science,Palani,90,75,Electical and Electonics Engineering,Yes
+37,Birla Institute of Technology and Science,Palani,65,75,Electical and Electonics Engineering,No
+38,Birla Institute of Technology and Science,Palani,70,75,Electical and Electonics Engineering,No
+39,Birla Institute of Technology and Science,Palani,28,75,Electical and Electonics Engineering,No
+40,Birla Institute of Technology and Science,Palani,49,75,Electical and Electonics Engineering,No
+41,Birla Institute of Technology and Science,Palani,54,75,Electical and Electonics Engineering,No
+42,Birla Institute of Technology and Science,Palani,37,75,Electical and Electonics Engineering,No
+43,Birla Institute of Technology and Science,Palani,95,75,Electical and Electonics Engineering,Yes
+44,Birla Institute of Technology and Science,Palani,86,75,Electical and Electonics Engineering,Yes
+45,Chandigarh University,Mohali,50,55,Computer Science and Engineering,Yes
+46,Chandigarh University,Mohali,50,55,Electical and Electonics Engineering,Yes
+47,Chandigarh University,Mohali,50,55,Electronics and Communication Engineering,Yes
+48,Chandigarh University,Mohali,50,55,Civil Engineering,Yes
+49,Chandigarh University,Mohali,50,55,Mechanical Engineering,Yes
+50,Chandigarh University,Mohali,65,55,Computer Science and Engineering,Yes
+51,Chandigarh University,Mohali,68,55,Electical and Electonics Engineering,Yes
+52,Chandigarh University,Mohali,74,55,Electical and Electonics Engineering,Yes
+53,Chandigarh University,Mohali,65,55,Electronics and Communication Engineering,Yes
+54,Chandigarh University,Mohali,74,55,Civil Engineering,Yes
+55,Chandigarh University,Mohali,82,55,Civil Engineering,Yes
+56,Chandigarh University,Mohali,69,55,Civil Engineering,Yes
+57,Chandigarh University,Mohali,78,55,Mechanical Engineering,Yes
+58,Chandigarh University,Mohali,92,55,Mechanical Engineering,Yes
+59,Chandigarh University,Mohali,85,55,Mechanical Engineering,Yes
+60,Chandigarh University,Mohali,48,55,Computer Science and Engineering,No
+61,Chandigarh University,Mohali,45,55,Electical and Electonics Engineering,No
+62,Chandigarh University,Mohali,85,55,Electronics and Communication Engineering,Yes
+63,Chandigarh University,Mohali,92,55,Electronics and Communication Engineering,Yes
+64,Chandigarh University,Mohali,79,55,Electronics and Communication Engineering,Yes
+65,Chandigarh University,Mohali,48,55,Electronics and Communication Engineering,No
+66,Chandigarh University,Mohali,36,55,Civil Engineering,No
+67,Chandigarh University,Mohali,45,55,Mechanical Engineering,No
+68,Chandigarh University,Mohali,42,55,Computer Science and Engineering,No
+69,Chandigarh University,Mohali,28,55,Computer Science and Engineering,No
+70,Chandigarh University,Mohali,16,55,Computer Science and Engineering,No
+71,Chandigarh University,Mohali,37,55,Computer Science and Engineering,No
+72,Chandigarh University,Mohali,25,55,Electical and Electonics Engineering,No
+73,Chandigarh University,Mohali,19,55,Electical and Electonics Engineering,No
+74,Chandigarh University,Mohali,39,55,Electical and Electonics Engineering,No
+75,Chandigarh University,Mohali,29,55,Electronics and Communication Engineering,No
+76,Chandigarh University,Mohali,28,55,Civil Engineering,No
+77,Chandigarh University,Mohali,16,55,Civil Engineering,No
+78,Chandigarh University,Mohali,49,55,Civil Engineering,No
+79,Chandigarh University,Mohali,37,55,Mechanical Engineering,No
+80,Chandigarh University,Mohali,19,55,Mechanical Engineering,No
+81,Chandigarh University,Mohali,26,55,Mechanical Engineering,No
+82,Chandigarh University,Mohali,88,55,Computer Science and Engineering,Yes
+83,Chandigarh University,Mohali,79,55,Computer Science and Engineering,Yes
+84,Chandigarh University,Mohali,95,55,Electical and Electonics Engineering,Yes
+85,Chandigarh University,Mohali,42,55,Electronics and Communication Engineering,No
+86,Chandigarh University,Mohali,15,55,Electronics and Communication Engineering,No
+87,Chandigarh University,Mohali,35,55,Electronics and Communication Engineering,No
+88,Christ University,Bangalore,55,40,Computer Science and Engineering,Yes
+89,Christ University,Bangalore,55,40,Electical and Electonics Engineering,Yes
+90,Christ University,Bangalore,55,40,Electronics and Communication Engineering,Yes
+91,Christ University,Bangalore,55,40,Civil Engineering,Yes
+92,Christ University,Bangalore,55,40,Mechanical Engineering,Yes
+93,Christ University,Bangalore,67,40,Computer Science and Engineering,Yes
+94,Christ University,Bangalore,66,40,Electical and Electonics Engineering,Yes
+95,Christ University,Bangalore,73,40,Electical and Electonics Engineering,Yes
+96,Christ University,Bangalore,85,40,Electronics and Communication Engineering,Yes
+97,Christ University,Bangalore,62,40,Civil Engineering,Yes
+98,Christ University,Bangalore,82,40,Civil Engineering,Yes
+99,Christ University,Bangalore,62,40,Mechanical Engineering,Yes
+100,Christ University,Bangalore,74,40,Mechanical Engineering,Yes
+101,Christ University,Bangalore,86,40,Mechanical Engineering,Yes
+102,Christ University,Bangalore,47,40,Computer Science and Engineering,No
+103,Christ University,Bangalore,34,40,Computer Science and Engineering,No
+104,Christ University,Bangalore,88,40,Electical and Electonics Engineering,Yes
+105,Christ University,Bangalore,37,40,Electical and Electonics Engineering,No
+106,Christ University,Bangalore,42,40,Electical and Electonics Engineering,No
+107,Christ University,Bangalore,39,40,Electronics and Communication Engineering,No
+108,Christ University,Bangalore,28,40,Civil Engineering,No
+109,Christ University,Bangalore,48,40,Civil Engineering,No
+110,Christ University,Bangalore,28,40,Mechanical Engineering,No
+111,Christ University,Bangalore,52,40,Computer Science and Engineering,No
+112,Christ University,Bangalore,27,40,Electical and Electonics Engineering,No
+113,Christ University,Bangalore,50,40,Electical and Electonics Engineering,No
+114,Christ University,Bangalore,49,40,Electronics and Communication Engineering,No
+115,Christ University,Bangalore,28,40,Electronics and Communication Engineering,No
+116,Christ University,Bangalore,45,40,Civil Engineering,No
+117,Christ University,Bangalore,52,40,Mechanical Engineering,No
+118,Christ University,Bangalore,38,40,Mechanical Engineering,No
+119,Christ University,Bangalore,44,40,Mechanical Engineering,No
+120,Christ University,Bangalore,84,40,Computer Science and Engineering,Yes
+121,Christ University,Bangalore,42,40,Electronics and Communication Engineering,No
+122,Christ University,Bangalore,74,40,Electronics and Communication Engineering,Yes
+123,Christ University,Bangalore,34,40,Electronics and Communication Engineering,No
+124,Christ University,Bangalore,69,40,Electronics and Communication Engineering,Yes
+125,Christ University,Bangalore,35,40,Civil Engineering,No
+126,Delhi Technological University,New Delhi,60,60,Electronics and Communication Engineering,Yes
+127,Delhi Technological University,New Delhi,60,60,Civil Engineering,Yes
+128,Delhi Technological University,New Delhi,60,60,Mechanical Engineering,Yes
+129,Delhi Technological University,New Delhi,84,60,Electronics and Communication Engineering,Yes
+130,Delhi Technological University,New Delhi,74,60,Civil Engineering,Yes
+131,Delhi Technological University,New Delhi,66,60,Civil Engineering,Yes
+132,Delhi Technological University,New Delhi,85,60,Civil Engineering,Yes
+133,Delhi Technological University,New Delhi,75,60,Mechanical Engineering,Yes
+134,Delhi Technological University,New Delhi,88,60,Mechanical Engineering,Yes
+135,Delhi Technological University,New Delhi,69,60,Mechanical Engineering,Yes
+136,Delhi Technological University,New Delhi,59,60,Electronics and Communication Engineering,No
+137,Delhi Technological University,New Delhi,51,60,Civil Engineering,No
+138,Delhi Technological University,New Delhi,42,60,Civil Engineering,No
+139,Delhi Technological University,New Delhi,58,60,Civil Engineering,No
+140,Delhi Technological University,New Delhi,58,60,Mechanical Engineering,No
+141,Delhi Technological University,New Delhi,51,60,Mechanical Engineering,No
+142,Delhi Technological University,New Delhi,35,60,Mechanical Engineering,No
+143,Delhi Technological University,New Delhi,29,60,Electronics and Communication Engineering,No
+144,Delhi Technological University,New Delhi,47,60,Electronics and Communication Engineering,No
+145,Delhi Technological University,New Delhi,31,60,Electronics and Communication Engineering,No
+146,Delhi Technological University,New Delhi,28,60,Civil Engineering,No
+147,Delhi Technological University,New Delhi,35,60,Civil Engineering,No
+148,Delhi Technological University,New Delhi,43,60,Mechanical Engineering,No
+149,Delhi Technological University,New Delhi,74,60,Electronics and Communication Engineering,Yes
+150,Delhi Technological University,New Delhi,28,60,Mechanical Engineering,No
+151,Dr MGR Educational and Research Institute,Chennai,55,60,Computer Science and Engineering,Yes
+152,Dr MGR Educational and Research Institute,Chennai,55,60,Electical and Electonics Engineering,Yes
+153,Dr MGR Educational and Research Institute,Chennai,75,60,Computer Science and Engineering,Yes
+154,Dr MGR Educational and Research Institute,Chennai,84,60,Computer Science and Engineering,Yes
+155,Dr MGR Educational and Research Institute,Chennai,42,60,Computer Science and Engineering,No
+156,Dr MGR Educational and Research Institute,Chennai,60,60,Computer Science and Engineering,Yes
+157,Dr MGR Educational and Research Institute,Chennai,65,60,Electical and Electonics Engineering,Yes
+158,Dr MGR Educational and Research Institute,Chennai,36,60,Computer Science and Engineering,No
+159,Dr MGR Educational and Research Institute,Chennai,47,60,Electical and Electonics Engineering,No
+160,Dr MGR Educational and Research Institute,Chennai,85,60,Electical and Electonics Engineering,Yes
+161,Dr MGR Educational and Research Institute,Chennai,35,60,Electical and Electonics Engineering,No
+162,Dr MGR Educational and Research Institute,Chennai,50,60,Electical and Electonics Engineering,No
+163,Dr MGR Educational and Research Institute,Chennai,29,60,Computer Science and Engineering,No
+164,Dr MGR Educational and Research Institute,Chennai,28,60,Electical and Electonics Engineering,No
+165,Dr MGR Educational and Research Institute,Chennai,79,60,Electical and Electonics Engineering,Yes
+166,Dr MGR Educational and Research Institute,Chennai,50,60,Computer Science and Engineering,No
+167,Dr Vishwanath Karad MIT World Peace University,Pune,50,45,Computer Science and Engineering,Yes
+168,Dr Vishwanath Karad MIT World Peace University,Pune,68,45,Computer Science and Engineering,Yes
+169,Dr Vishwanath Karad MIT World Peace University,Pune,59,45,Computer Science and Engineering,Yes
+170,Dr Vishwanath Karad MIT World Peace University,Pune,78,45,Computer Science and Engineering,Yes
+171,Dr Vishwanath Karad MIT World Peace University,Pune,25,45,Computer Science and Engineering,No
+172,Dr Vishwanath Karad MIT World Peace University,Pune,44,45,Computer Science and Engineering,No
+173,Dr Vishwanath Karad MIT World Peace University,Pune,39,45,Computer Science and Engineering,No
+174,Dr Vishwanath Karad MIT World Peace University,Pune,30,45,Computer Science and Engineering,No
+175,Guru Gobind Singh Indraprastha University,New Delhi,60,50,Electical and Electonics Engineering,Yes
+176,Guru Gobind Singh Indraprastha University,New Delhi,60,50,Electronics and Communication Engineering,Yes
+177,Guru Gobind Singh Indraprastha University,New Delhi,60,50,Civil Engineering,Yes
+178,Guru Gobind Singh Indraprastha University,New Delhi,60,50,Mechanical Engineering,Yes
+179,Guru Gobind Singh Indraprastha University,New Delhi,78,50,Electical and Electonics Engineering,Yes
+180,Guru Gobind Singh Indraprastha University,New Delhi,92,50,Electical and Electonics Engineering,Yes
+181,Guru Gobind Singh Indraprastha University,New Delhi,85,50,Electical and Electonics Engineering,Yes
+182,Guru Gobind Singh Indraprastha University,New Delhi,76,50,Electronics and Communication Engineering,Yes
+183,Guru Gobind Singh Indraprastha University,New Delhi,75,50,Civil Engineering,Yes
+184,Guru Gobind Singh Indraprastha University,New Delhi,81,50,Civil Engineering,Yes
+185,Guru Gobind Singh Indraprastha University,New Delhi,89,50,Civil Engineering,Yes
+186,Guru Gobind Singh Indraprastha University,New Delhi,74,50,Mechanical Engineering,Yes
+187,Guru Gobind Singh Indraprastha University,New Delhi,85,50,Mechanical Engineering,Yes
+188,Guru Gobind Singh Indraprastha University,New Delhi,29,50,Mechanical Engineering,No
+189,Guru Gobind Singh Indraprastha University,New Delhi,93,50,Mechanical Engineering,Yes
+190,Guru Gobind Singh Indraprastha University,New Delhi,57,50,Electical and Electonics Engineering,No
+191,Guru Gobind Singh Indraprastha University,New Delhi,27,50,Electical and Electonics Engineering,No
+192,Guru Gobind Singh Indraprastha University,New Delhi,59,50,Electronics and Communication Engineering,No
+193,Guru Gobind Singh Indraprastha University,New Delhi,59,50,Civil Engineering,No
+194,Guru Gobind Singh Indraprastha University,New Delhi,57,50,Mechanical Engineering,No
+195,Guru Gobind Singh Indraprastha University,New Delhi,45,50,Electical and Electonics Engineering,No
+196,Guru Gobind Singh Indraprastha University,New Delhi,35,50,Electical and Electonics Engineering,No
+197,Guru Gobind Singh Indraprastha University,New Delhi,38,50,Electronics and Communication Engineering,No
+198,Guru Gobind Singh Indraprastha University,New Delhi,35,50,Civil Engineering,No
+199,Guru Gobind Singh Indraprastha University,New Delhi,22,50,Civil Engineering,No
+200,Guru Gobind Singh Indraprastha University,New Delhi,45,50,Civil Engineering,No
+201,Guru Gobind Singh Indraprastha University,New Delhi,45,50,Mechanical Engineering,No
+202,Guru Gobind Singh Indraprastha University,New Delhi,36,50,Mechanical Engineering,No
+203,Guru Gobind Singh Indraprastha University,New Delhi,89,50,Electronics and Communication Engineering,Yes
+204,Guru Gobind Singh Indraprastha University,New Delhi,47,50,Electronics and Communication Engineering,No
+205,"Indian Institute of Science, Bangalore",Bangalore,50,70,Electronics and Communication Engineering,Yes
+206,"Indian Institute of Science, Bangalore",Bangalore,50,70,Civil Engineering,Yes
+207,"Indian Institute of Science, Bangalore",Bangalore,50,70,Mechanical Engineering,Yes
+208,"Indian Institute of Science, Bangalore",Bangalore,66,70,Electronics and Communication Engineering,Yes
+209,"Indian Institute of Science, Bangalore",Bangalore,77,70,Electronics and Communication Engineering,Yes
+210,"Indian Institute of Science, Bangalore",Bangalore,89,70,Electronics and Communication Engineering,Yes
+211,"Indian Institute of Science, Bangalore",Bangalore,75,70,Civil Engineering,Yes
+212,"Indian Institute of Science, Bangalore",Bangalore,89,70,Civil Engineering,Yes
+213,"Indian Institute of Science, Bangalore",Bangalore,62,70,Mechanical Engineering,Yes
+214,"Indian Institute of Science, Bangalore",Bangalore,85,70,Mechanical Engineering,Yes
+215,"Indian Institute of Science, Bangalore",Bangalore,70,70,Mechanical Engineering,Yes
+216,"Indian Institute of Science, Bangalore",Bangalore,46,70,Electronics and Communication Engineering,No
+217,"Indian Institute of Science, Bangalore",Bangalore,45,70,Civil Engineering,No
+218,"Indian Institute of Science, Bangalore",Bangalore,47,70,Mechanical Engineering,No
+219,"Indian Institute of Science, Bangalore",Bangalore,18,70,Electronics and Communication Engineering,No
+220,"Indian Institute of Science, Bangalore",Bangalore,37,70,Electronics and Communication Engineering,No
+221,"Indian Institute of Science, Bangalore",Bangalore,35,70,Civil Engineering,No
+222,"Indian Institute of Science, Bangalore",Bangalore,42,70,Mechanical Engineering,No
+223,"Indian Institute of Science, Bangalore",Bangalore,22,70,Mechanical Engineering,No
+224,"Indian Institute of Science, Bangalore",Bangalore,30,70,Mechanical Engineering,No
+225,"Indian Institute of Science, Bangalore",Bangalore,24,70,Electronics and Communication Engineering,No
+226,"Indian Institute of Science, Bangalore",Bangalore,60,70,Electical and Electonics Engineering,Yes
+227,"Indian Institute of Science, Bangalore",Bangalore,88,70,Electical and Electonics Engineering,Yes
+228,"Indian Institute of Science, Bangalore",Bangalore,56,70,Electical and Electonics Engineering,No
+229,"Indian Institute of Science, Bangalore",Bangalore,38,70,Electical and Electonics Engineering,No
+230,"Indian Institute of Science, Bangalore",Bangalore,79,70,Electical and Electonics Engineering,Yes
+231,"Indian Institute of Science, Bangalore",Bangalore,46,70,Electical and Electonics Engineering,No
+232,"Indian Institute of Science, Bangalore",Bangalore,70,70,Electical and Electonics Engineering,Yes
+233,"Indian Institute of Technology, Bombay",Mumbai,60,50,Civil Engineering,Yes
+234,"Indian Institute of Technology, Bombay",Mumbai,60,50,Mechanical Engineering,Yes
+235,"Indian Institute of Technology, Bombay",Mumbai,90,50,Civil Engineering,Yes
+236,"Indian Institute of Technology, Bombay",Mumbai,79,50,Civil Engineering,Yes
+237,"Indian Institute of Technology, Bombay",Mumbai,82,50,Mechanical Engineering,Yes
+238,"Indian Institute of Technology, Bombay",Mumbai,75,50,Mechanical Engineering,Yes
+239,"Indian Institute of Technology, Bombay",Mumbai,93,50,Mechanical Engineering,Yes
+240,"Indian Institute of Technology, Bombay",Mumbai,68,50,Mechanical Engineering,Yes
+241,"Indian Institute of Technology, Bombay",Mumbai,58,50,Civil Engineering,No
+242,"Indian Institute of Technology, Bombay",Mumbai,35,50,Civil Engineering,No
+243,"Indian Institute of Technology, Bombay",Mumbai,45,50,Mechanical Engineering,No
+244,"Indian Institute of Technology, Bombay",Mumbai,58,50,Mechanical Engineering,No
+245,"Indian Institute of Technology, Bombay",Mumbai,27,50,Mechanical Engineering,No
+246,"Indian Institute of Technology, Bombay",Mumbai,38,50,Mechanical Engineering,No
+247,"Indian Institute of Technology, Bombay",Mumbai,42,50,Civil Engineering,No
+248,"Indian Institute of Technology, Bombay",Mumbai,54,50,Mechanical Engineering,No
+249,"Indian Institute of Technology, Delhi",New Delhi,60,75,Electronics and Communication Engineering,Yes
+250,"Indian Institute of Technology, Delhi",New Delhi,60,75,Civil Engineering,Yes
+251,"Indian Institute of Technology, Delhi",New Delhi,60,75,Mechanical Engineering,Yes
+252,"Indian Institute of Technology, Delhi",New Delhi,82,75,Mechanical Engineering,Yes
+253,"Indian Institute of Technology, Delhi",New Delhi,79,75,Electronics and Communication Engineering,Yes
+254,"Indian Institute of Technology, Delhi",New Delhi,83,75,Electronics and Communication Engineering,Yes
+255,"Indian Institute of Technology, Delhi",New Delhi,25,75,Electronics and Communication Engineering,No
+256,"Indian Institute of Technology, Delhi",New Delhi,94,75,Electronics and Communication Engineering,Yes
+257,"Indian Institute of Technology, Delhi",New Delhi,74,75,Civil Engineering,Yes
+258,"Indian Institute of Technology, Delhi",New Delhi,57,75,Civil Engineering,No
+259,"Indian Institute of Technology, Delhi",New Delhi,81,75,Civil Engineering,Yes
+260,"Indian Institute of Technology, Delhi",New Delhi,95,75,Civil Engineering,Yes
+261,"Indian Institute of Technology, Delhi",New Delhi,76,75,Mechanical Engineering,Yes
+262,"Indian Institute of Technology, Delhi",New Delhi,39,75,Electronics and Communication Engineering,No
+263,"Indian Institute of Technology, Delhi",New Delhi,50,75,Civil Engineering,No
+264,"Indian Institute of Technology, Delhi",New Delhi,45,75,Civil Engineering,No
+265,"Indian Institute of Technology, Delhi",New Delhi,39,75,Mechanical Engineering,No
+266,"Indian Institute of Technology, Delhi",New Delhi,46,75,Electronics and Communication Engineering,No
+267,"Indian Institute of Technology, Delhi",New Delhi,36,75,Civil Engineering,No
+268,"Indian Institute of Technology, Delhi",New Delhi,42,75,Mechanical Engineering,No
+269,"Indian Institute of Technology, Delhi",New Delhi,54,75,Mechanical Engineering,No
+270,"Indian Institute of Technology, Delhi",New Delhi,57,75,Electronics and Communication Engineering,No
+271,"Indian Institute of Technology, Madras",Chennai,55,55,Electronics and Communication Engineering,Yes
+272,"Indian Institute of Technology, Madras",Chennai,55,55,Mechanical Engineering,Yes
+273,"Indian Institute of Technology, Madras",Chennai,68,55,Electronics and Communication Engineering,Yes
+274,"Indian Institute of Technology, Madras",Chennai,67,55,Mechanical Engineering,Yes
+275,"Indian Institute of Technology, Madras",Chennai,82,55,Mechanical Engineering,Yes
+276,"Indian Institute of Technology, Madras",Chennai,71,55,Mechanical Engineering,Yes
+277,"Indian Institute of Technology, Madras",Chennai,52,55,Electronics and Communication Engineering,No
+278,"Indian Institute of Technology, Madras",Chennai,40,55,Electronics and Communication Engineering,No
+279,"Indian Institute of Technology, Madras",Chennai,36,55,Electronics and Communication Engineering,No
+280,"Indian Institute of Technology, Madras",Chennai,38,55,Mechanical Engineering,No
+281,"Indian Institute of Technology, Madras",Chennai,49,55,Electronics and Communication Engineering,No
+282,"Indian Institute of Technology, Madras",Chennai,42,55,Mechanical Engineering,No
+283,"Indian Institute of Technology, Madras",Chennai,49,55,Mechanical Engineering,No
+284,"Indian Institute of Technology, Madras",Chennai,53,55,Mechanical Engineering,No
+285,"Indian Institute of Technology, Madras",Chennai,75,55,Electronics and Communication Engineering,Yes
+286,"Indian Institute of Technology, Madras",Chennai,84,55,Electronics and Communication Engineering,Yes
+287,"Indian Institute of Technology, Madras",Chennai,55,55,Civil Engineering,Yes
+288,"Indian Institute of Technology, Madras",Chennai,69,55,Civil Engineering,Yes
+289,"Indian Institute of Technology, Madras",Chennai,89,55,Civil Engineering,Yes
+290,"Indian Institute of Technology, Madras",Chennai,73,55,Civil Engineering,Yes
+291,"Indian Institute of Technology, Madras",Chennai,41,55,Civil Engineering,No
+292,"Indian Institute of Technology, Madras",Chennai,26,55,Civil Engineering,No
+293,"Indian Institute of Technology, Madras",Chennai,50,55,Civil Engineering,No
+294,"Indian Institute of Technology, Madras",Chennai,36,55,Civil Engineering,No
+295,Indira Gandhi National Open University,New Delhi,55,55,Computer Science and Engineering,Yes
+296,Indira Gandhi National Open University,New Delhi,55,55,Civil Engineering,Yes
+297,Indira Gandhi National Open University,New Delhi,55,55,Mechanical Engineering,Yes
+298,Indira Gandhi National Open University,New Delhi,60,55,Computer Science and Engineering,Yes
+299,Indira Gandhi National Open University,New Delhi,64,55,Civil Engineering,Yes
+300,Indira Gandhi National Open University,New Delhi,77,55,Civil Engineering,Yes
+301,Indira Gandhi National Open University,New Delhi,85,55,Civil Engineering,Yes
+302,Indira Gandhi National Open University,New Delhi,64,55,Mechanical Engineering,Yes
+303,Indira Gandhi National Open University,New Delhi,76,55,Mechanical Engineering,Yes
+304,Indira Gandhi National Open University,New Delhi,74,55,Computer Science and Engineering,Yes
+305,Indira Gandhi National Open University,New Delhi,35,55,Computer Science and Engineering,No
+306,Indira Gandhi National Open University,New Delhi,45,55,Civil Engineering,No
+307,Indira Gandhi National Open University,New Delhi,50,55,Mechanical Engineering,No
+308,Indira Gandhi National Open University,New Delhi,51,55,Computer Science and Engineering,No
+309,Indira Gandhi National Open University,New Delhi,30,55,Civil Engineering,No
+310,Indira Gandhi National Open University,New Delhi,84,55,Mechanical Engineering,Yes
+311,Indira Gandhi National Open University,New Delhi,45,55,Mechanical Engineering,No
+312,Indira Gandhi National Open University,New Delhi,37,55,Mechanical Engineering,No
+313,Indira Gandhi National Open University,New Delhi,29,55,Mechanical Engineering,No
+314,Indira Gandhi National Open University,New Delhi,42,55,Computer Science and Engineering,No
+315,Indira Gandhi National Open University,New Delhi,56,55,Computer Science and Engineering,Yes
+316,Indira Gandhi National Open University,New Delhi,50,55,Civil Engineering,No
+317,"Institute of Chemical Technology, Mumbai",Mumbai,55,66,Civil Engineering,Yes
+318,"Institute of Chemical Technology, Mumbai",Mumbai,55,66,Mechanical Engineering,Yes
+319,"Institute of Chemical Technology, Mumbai",Mumbai,68,66,Civil Engineering,Yes
+320,"Institute of Chemical Technology, Mumbai",Mumbai,78,66,Mechanical Engineering,Yes
+321,"Institute of Chemical Technology, Mumbai",Mumbai,85,66,Mechanical Engineering,Yes
+322,"Institute of Chemical Technology, Mumbai",Mumbai,69,66,Mechanical Engineering,Yes
+323,"Institute of Chemical Technology, Mumbai",Mumbai,75,66,Civil Engineering,Yes
+324,"Institute of Chemical Technology, Mumbai",Mumbai,82,66,Civil Engineering,Yes
+325,"Institute of Chemical Technology, Mumbai",Mumbai,45,66,Civil Engineering,No
+326,"Institute of Chemical Technology, Mumbai",Mumbai,53,66,Civil Engineering,No
+327,"Institute of Chemical Technology, Mumbai",Mumbai,47,66,Mechanical Engineering,No
+328,"Institute of Chemical Technology, Mumbai",Mumbai,36,66,Civil Engineering,No
+329,"Institute of Chemical Technology, Mumbai",Mumbai,38,66,Mechanical Engineering,No
+330,"Institute of Chemical Technology, Mumbai",Mumbai,52,66,Mechanical Engineering,No
+331,"Institute of Chemical Technology, Mumbai",Mumbai,10,66,Mechanical Engineering,No
+332,Jadavpur University,Kolkata,45,60,Civil Engineering,Yes
+333,Jadavpur University,Kolkata,45,60,Mechanical Engineering,Yes
+334,Jadavpur University,Kolkata,75,60,Civil Engineering,Yes
+335,Jadavpur University,Kolkata,83,60,Civil Engineering,Yes
+336,Jadavpur University,Kolkata,68,60,Mechanical Engineering,Yes
+337,Jadavpur University,Kolkata,52,60,Civil Engineering,Yes
+338,Jadavpur University,Kolkata,63,60,Civil Engineering,Yes
+339,Jadavpur University,Kolkata,34,60,Civil Engineering,No
+340,Jadavpur University,Kolkata,40,60,Civil Engineering,No
+341,Jadavpur University,Kolkata,57,60,Mechanical Engineering,Yes
+342,Jadavpur University,Kolkata,86,60,Mechanical Engineering,Yes
+343,Jadavpur University,Kolkata,15,60,Mechanical Engineering,No
+344,Jadavpur University,Kolkata,35,60,Mechanical Engineering,No
+345,Jadavpur University,Kolkata,42,60,Mechanical Engineering,No
+346,Jadavpur University,Kolkata,13,60,Civil Engineering,No
+347,Jadavpur University,Kolkata,29,60,Mechanical Engineering,No
+348,Jamia Hamdard,New Delhi,50,50,Computer Science and Engineering,Yes
+349,Jamia Hamdard,New Delhi,50,50,Electronics and Communication Engineering,Yes
+350,Jamia Hamdard,New Delhi,70,50,Computer Science and Engineering,Yes
+351,Jamia Hamdard,New Delhi,84,50,Computer Science and Engineering,Yes
+352,Jamia Hamdard,New Delhi,63,50,Computer Science and Engineering,Yes
+353,Jamia Hamdard,New Delhi,79,50,Electronics and Communication Engineering,Yes
+354,Jamia Hamdard,New Delhi,46,50,Computer Science and Engineering,No
+355,Jamia Hamdard,New Delhi,29,50,Electronics and Communication Engineering,No
+356,Jamia Hamdard,New Delhi,31,50,Computer Science and Engineering,No
+357,Jamia Hamdard,New Delhi,35,50,Electronics and Communication Engineering,No
+358,Jamia Hamdard,New Delhi,49,50,Computer Science and Engineering,No
+359,Jamia Hamdard,New Delhi,12,50,Computer Science and Engineering,No
+360,Jamia Hamdard,New Delhi,60,50,Electronics and Communication Engineering,Yes
+361,Jamia Hamdard,New Delhi,47,50,Electronics and Communication Engineering,No
+362,Jamia Millia Islamia,New Delhi,50,50,Computer Science and Engineering,Yes
+363,Jamia Millia Islamia,New Delhi,50,50,Electronics and Communication Engineering,Yes
+364,Jamia Millia Islamia,New Delhi,50,50,Civil Engineering,Yes
+365,Jamia Millia Islamia,New Delhi,50,50,Mechanical Engineering,Yes
+366,Jamia Millia Islamia,New Delhi,61,50,Computer Science and Engineering,Yes
+367,Jamia Millia Islamia,New Delhi,84,50,Electronics and Communication Engineering,Yes
+368,Jamia Millia Islamia,New Delhi,74,50,Civil Engineering,Yes
+369,Jamia Millia Islamia,New Delhi,58,50,Mechanical Engineering,Yes
+370,Jamia Millia Islamia,New Delhi,75,50,Mechanical Engineering,Yes
+371,Jamia Millia Islamia,New Delhi,88,50,Mechanical Engineering,Yes
+372,Jamia Millia Islamia,New Delhi,65,50,Mechanical Engineering,Yes
+373,Jamia Millia Islamia,New Delhi,84,50,Computer Science and Engineering,Yes
+374,Jamia Millia Islamia,New Delhi,90,50,Computer Science and Engineering,Yes
+375,Jamia Millia Islamia,New Delhi,38,50,Computer Science and Engineering,No
+376,Jamia Millia Islamia,New Delhi,46,50,Computer Science and Engineering,No
+377,Jamia Millia Islamia,New Delhi,74,50,Electronics and Communication Engineering,Yes
+378,Jamia Millia Islamia,New Delhi,38,50,Electronics and Communication Engineering,No
+379,Jamia Millia Islamia,New Delhi,29,50,Electronics and Communication Engineering,No
+380,Jamia Millia Islamia,New Delhi,62,50,Civil Engineering,Yes
+381,Jamia Millia Islamia,New Delhi,28,50,Civil Engineering,No
+382,Jamia Millia Islamia,New Delhi,19,50,Civil Engineering,No
+383,Jamia Millia Islamia,New Delhi,43,50,Mechanical Engineering,No
+384,Jamia Millia Islamia,New Delhi,30,50,Computer Science and Engineering,No
+385,Jamia Millia Islamia,New Delhi,48,50,Electronics and Communication Engineering,No
+386,Jamia Millia Islamia,New Delhi,45,50,Civil Engineering,No
+387,Jamia Millia Islamia,New Delhi,34,50,Civil Engineering,No
+388,Jamia Millia Islamia,New Delhi,28,50,Mechanical Engineering,No
+389,Jamia Millia Islamia,New Delhi,35,50,Mechanical Engineering,No
+390,Jamia Millia Islamia,New Delhi,16,50,Mechanical Engineering,No
+391,Jamia Millia Islamia,New Delhi,72,50,Computer Science and Engineering,Yes
+392,Jamia Millia Islamia,New Delhi,66,50,Electronics and Communication Engineering,Yes
+393,Jawaharlal Nehru University,Pali,55,55,Electronics and Communication Engineering,Yes
+394,Jawaharlal Nehru University,Pali,69,55,Electronics and Communication Engineering,Yes
+395,Jawaharlal Nehru University,Pali,95,55,Electronics and Communication Engineering,Yes
+396,Jawaharlal Nehru University,Pali,82,55,Electronics and Communication Engineering,Yes
+397,Jawaharlal Nehru University,Pali,47,55,Electronics and Communication Engineering,No
+398,Jawaharlal Nehru University,Pali,52,55,Electronics and Communication Engineering,No
+399,Jawaharlal Nehru University,Pali,39,55,Electronics and Communication Engineering,No
+400,Jawaharlal Nehru University,Pali,22,55,Electronics and Communication Engineering,No
+401,Lovely Professional University,Phagwara,60,55,Electical and Electonics Engineering,Yes
+402,Lovely Professional University,Phagwara,60,55,Electronics and Communication Engineering,Yes
+403,Lovely Professional University,Phagwara,60,55,Civil Engineering,Yes
+404,Lovely Professional University,Phagwara,60,55,Mechanical Engineering,Yes
+405,Lovely Professional University,Phagwara,69,55,Computer Science and Engineering,Yes
+406,Lovely Professional University,Phagwara,77,55,Electical and Electonics Engineering,Yes
+407,Lovely Professional University,Phagwara,79,55,Electronics and Communication Engineering,Yes
+408,Lovely Professional University,Phagwara,71,55,Civil Engineering,Yes
+409,Lovely Professional University,Phagwara,86,55,Civil Engineering,Yes
+410,Lovely Professional University,Phagwara,79,55,Mechanical Engineering,Yes
+411,Lovely Professional University,Phagwara,96,55,Mechanical Engineering,Yes
+412,Lovely Professional University,Phagwara,35,55,Computer Science and Engineering,No
+413,Lovely Professional University,Phagwara,82,55,Electical and Electonics Engineering,Yes
+414,Lovely Professional University,Phagwara,42,55,Electical and Electonics Engineering,No
+415,Lovely Professional University,Phagwara,37,55,Electronics and Communication Engineering,No
+416,Lovely Professional University,Phagwara,39,55,Civil Engineering,No
+417,Lovely Professional University,Phagwara,84,55,Mechanical Engineering,Yes
+418,Lovely Professional University,Phagwara,22,55,Mechanical Engineering,No
+419,Lovely Professional University,Phagwara,59,55,Mechanical Engineering,No
+420,Lovely Professional University,Phagwara,58,55,Computer Science and Engineering,No
+421,Lovely Professional University,Phagwara,30,55,Electical and Electonics Engineering,No
+422,Lovely Professional University,Phagwara,50,55,Electical and Electonics Engineering,No
+423,Lovely Professional University,Phagwara,58,55,Electronics and Communication Engineering,No
+424,Lovely Professional University,Phagwara,45,55,Civil Engineering,No
+425,Lovely Professional University,Phagwara,53,55,Civil Engineering,No
+426,Lovely Professional University,Phagwara,45,55,Mechanical Engineering,No
+427,Lovely Professional University,Phagwara,35,55,Mechanical Engineering,No
+428,Lovely Professional University,Phagwara,75,55,Computer Science and Engineering,Yes
+429,Lovely Professional University,Phagwara,40,55,Computer Science and Engineering,No
+430,Lovely Professional University,Phagwara,81,55,Electronics and Communication Engineering,Yes
+431,Lovely Professional University,Phagwara,86,55,Computer Science and Engineering,Yes
+432,Maharaja Sayajirao University of Baroda,Baroda,40,50,Computer Science and Engineering,Yes
+433,Maharaja Sayajirao University of Baroda,Baroda,40,50,Electronics and Communication Engineering,Yes
+434,Maharaja Sayajirao University of Baroda,Baroda,40,50,Civil Engineering,Yes
+435,Maharaja Sayajirao University of Baroda,Baroda,40,50,Mechanical Engineering,Yes
+436,Maharaja Sayajirao University of Baroda,Baroda,55,50,Computer Science and Engineering,Yes
+437,Maharaja Sayajirao University of Baroda,Baroda,58,50,Electronics and Communication Engineering,Yes
+438,Maharaja Sayajirao University of Baroda,Baroda,52,50,Civil Engineering,Yes
+439,Maharaja Sayajirao University of Baroda,Baroda,87,50,Civil Engineering,Yes
+440,Maharaja Sayajirao University of Baroda,Baroda,67,50,Mechanical Engineering,Yes
+441,Maharaja Sayajirao University of Baroda,Baroda,32,50,Computer Science and Engineering,No
+442,Maharaja Sayajirao University of Baroda,Baroda,24,50,Electronics and Communication Engineering,No
+443,Maharaja Sayajirao University of Baroda,Baroda,74,50,Civil Engineering,Yes
+444,Maharaja Sayajirao University of Baroda,Baroda,22,50,Civil Engineering,No
+445,Maharaja Sayajirao University of Baroda,Baroda,38,50,Civil Engineering,No
+446,Maharaja Sayajirao University of Baroda,Baroda,77,50,Mechanical Engineering,Yes
+447,Maharaja Sayajirao University of Baroda,Baroda,39,50,Mechanical Engineering,No
+448,Maharaja Sayajirao University of Baroda,Baroda,32,50,Mechanical Engineering,No
+449,Maharaja Sayajirao University of Baroda,Baroda,29,50,Computer Science and Engineering,No
+450,Maharaja Sayajirao University of Baroda,Baroda,39,50,Electronics and Communication Engineering,No
+451,Maharaja Sayajirao University of Baroda,Baroda,30,50,Civil Engineering,No
+452,Maharaja Sayajirao University of Baroda,Baroda,25,50,Mechanical Engineering,No
+453,Maharaja Sayajirao University of Baroda,Baroda,69,50,Computer Science and Engineering,Yes
+454,Maharaja Sayajirao University of Baroda,Baroda,89,50,Computer Science and Engineering,Yes
+455,Maharaja Sayajirao University of Baroda,Baroda,67,50,Electronics and Communication Engineering,Yes
+456,Manipal University,Jaipur,50,50,Electical and Electonics Engineering,Yes
+457,Manipal University,Jaipur,59,50,Electical and Electonics Engineering,Yes
+458,Manipal University,Jaipur,47,50,Electical and Electonics Engineering,No
+459,Manipal University,Jaipur,32,50,Electical and Electonics Engineering,No
+460,Manipal University,Jaipur,27,50,Electical and Electonics Engineering,No
+461,Manipal University,Jaipur,77,50,Electical and Electonics Engineering,Yes
+462,Manipal University,Jaipur,62,50,Electical and Electonics Engineering,Yes
+463,National Institute of Technology Karnataka,Mangalore,60,75,Electical and Electonics Engineering,Yes
+464,National Institute of Technology Karnataka,Mangalore,72,75,Electical and Electonics Engineering,Yes
+465,National Institute of Technology Karnataka,Mangalore,43,75,Electical and Electonics Engineering,No
+466,National Institute of Technology Karnataka,Mangalore,57,75,Electical and Electonics Engineering,No
+467,National Institute of Technology Karnataka,Mangalore,27,75,Electical and Electonics Engineering,No
+468,National Institute of Technology Karnataka,Mangalore,49,75,Electical and Electonics Engineering,No
+469,National Institute of Technology Karnataka,Mangalore,39,75,Electical and Electonics Engineering,No
+470,National Institute of Technology Karnataka,Mangalore,94,75,Electical and Electonics Engineering,Yes
+471,National Institute of Technology Karnataka,Mangalore,87,75,Electical and Electonics Engineering,Yes
+472,National Institute of Technology Tiruchirappalli,Tiruchirappalli,75,65,Computer Science and Engineering,Yes
+473,National Institute of Technology Tiruchirappalli,Tiruchirappalli,75,65,Electical and Electonics Engineering,Yes
+474,National Institute of Technology Tiruchirappalli,Tiruchirappalli,75,65,Electronics and Communication Engineering,Yes
+475,National Institute of Technology Tiruchirappalli,Tiruchirappalli,75,65,Civil Engineering,Yes
+476,National Institute of Technology Tiruchirappalli,Tiruchirappalli,75,65,Mechanical Engineering,Yes
+477,National Institute of Technology Tiruchirappalli,Tiruchirappalli,95,65,Computer Science and Engineering,Yes
+478,National Institute of Technology Tiruchirappalli,Tiruchirappalli,89,65,Computer Science and Engineering,Yes
+479,National Institute of Technology Tiruchirappalli,Tiruchirappalli,80,65,Computer Science and Engineering,Yes
+480,National Institute of Technology Tiruchirappalli,Tiruchirappalli,89,65,Electical and Electonics Engineering,Yes
+481,National Institute of Technology Tiruchirappalli,Tiruchirappalli,91,65,Electronics and Communication Engineering,Yes
+482,National Institute of Technology Tiruchirappalli,Tiruchirappalli,79,65,Electronics and Communication Engineering,Yes
+483,National Institute of Technology Tiruchirappalli,Tiruchirappalli,93,65,Civil Engineering,Yes
+484,National Institute of Technology Tiruchirappalli,Tiruchirappalli,82,65,Mechanical Engineering,Yes
+485,National Institute of Technology Tiruchirappalli,Tiruchirappalli,95,65,Mechanical Engineering,Yes
+486,National Institute of Technology Tiruchirappalli,Tiruchirappalli,89,65,Mechanical Engineering,Yes
+487,National Institute of Technology Tiruchirappalli,Tiruchirappalli,65,65,Computer Science and Engineering,No
+488,National Institute of Technology Tiruchirappalli,Tiruchirappalli,36,65,Electical and Electonics Engineering,No
+489,National Institute of Technology Tiruchirappalli,Tiruchirappalli,84,65,Electronics and Communication Engineering,Yes
+490,National Institute of Technology Tiruchirappalli,Tiruchirappalli,70,65,Electronics and Communication Engineering,No
+491,National Institute of Technology Tiruchirappalli,Tiruchirappalli,63,65,Electronics and Communication Engineering,No
+492,National Institute of Technology Tiruchirappalli,Tiruchirappalli,84,65,Civil Engineering,Yes
+493,National Institute of Technology Tiruchirappalli,Tiruchirappalli,67,65,Civil Engineering,No
+494,National Institute of Technology Tiruchirappalli,Tiruchirappalli,50,65,Civil Engineering,No
+495,National Institute of Technology Tiruchirappalli,Tiruchirappalli,72,65,Civil Engineering,No
+496,National Institute of Technology Tiruchirappalli,Tiruchirappalli,69,65,Mechanical Engineering,No
+497,National Institute of Technology Tiruchirappalli,Tiruchirappalli,52,65,Mechanical Engineering,No
+498,National Institute of Technology Tiruchirappalli,Tiruchirappalli,35,65,Mechanical Engineering,No
+499,National Institute of Technology Tiruchirappalli,Tiruchirappalli,39,65,Computer Science and Engineering,No
+500,National Institute of Technology Tiruchirappalli,Tiruchirappalli,46,65,Electical and Electonics Engineering,No
+501,National Institute of Technology Tiruchirappalli,Tiruchirappalli,38,65,Electronics and Communication Engineering,No
+502,National Institute of Technology Tiruchirappalli,Tiruchirappalli,34,65,Civil Engineering,No
+503,National Institute of Technology Tiruchirappalli,Tiruchirappalli,20,65,Mechanical Engineering,No
+504,National Institute of Technology Tiruchirappalli,Tiruchirappalli,47,65,Computer Science and Engineering,No
+505,National Institute of Technology Tiruchirappalli,Tiruchirappalli,53,65,Computer Science and Engineering,No
+506,National Institute of Technology Tiruchirappalli,Tiruchirappalli,21,65,Electical and Electonics Engineering,No
+507,National Institute of Technology Tiruchirappalli,Tiruchirappalli,65,65,Electical and Electonics Engineering,No
+508,National Institute of Technology Tiruchirappalli,Tiruchirappalli,80,65,Electical and Electonics Engineering,Yes
+509,National Institute of Technology Tiruchirappalli,Tiruchirappalli,57,65,Electronics and Communication Engineering,No
+510,"National Institute of Technology, Warangal",Warangal,75,75,Electical and Electonics Engineering,Yes
+511,"National Institute of Technology, Warangal",Warangal,84,75,Electical and Electonics Engineering,Yes
+512,"National Institute of Technology, Warangal",Warangal,58,75,Electical and Electonics Engineering,No
+513,"National Institute of Technology, Warangal",Warangal,39,75,Electical and Electonics Engineering,No
+514,"National Institute of Technology, Warangal",Warangal,69,75,Electical and Electonics Engineering,No
+515,"National Institute of Technology, Warangal",Warangal,76,75,Electical and Electonics Engineering,Yes
+516,NIMS University,Chitanukalan,45,50,Computer Science and Engineering,Yes
+517,NIMS University,Chitanukalan,50,50,Computer Science and Engineering,Yes
+518,NIMS University,Chitanukalan,35,50,Computer Science and Engineering,No
+519,NIMS University,Chitanukalan,39,50,Computer Science and Engineering,No
+520,NIMS University,Chitanukalan,44,50,Computer Science and Engineering,No
+521,NIMS University,Chitanukalan,24,50,Computer Science and Engineering,No
+522,NIMS University,Chitanukalan,64,50,Computer Science and Engineering,Yes
+523,NIMS University,Chitanukalan,79,50,Computer Science and Engineering,Yes
+524,PES University,Bangalore,50,60,Electical and Electonics Engineering,Yes
+525,PES University,Bangalore,78,60,Electical and Electonics Engineering,Yes
+526,PES University,Bangalore,46,60,Electical and Electonics Engineering,No
+527,PES University,Bangalore,34,60,Electical and Electonics Engineering,No
+528,PES University,Bangalore,21,60,Electical and Electonics Engineering,No
+529,PES University,Bangalore,66,60,Electical and Electonics Engineering,Yes
+530,"Presidency University, Bangalore",Bangalore,50,45,Electical and Electonics Engineering,Yes
+531,"Presidency University, Bangalore",Bangalore,59,45,Electical and Electonics Engineering,Yes
+532,"Presidency University, Bangalore",Bangalore,23,45,Electical and Electonics Engineering,No
+533,"Presidency University, Bangalore",Bangalore,39,45,Electical and Electonics Engineering,No
+534,"Presidency University, Bangalore",Bangalore,18,45,Electical and Electonics Engineering,No
+535,"Presidency University, Bangalore",Bangalore,67,45,Electical and Electonics Engineering,Yes
+536,"Presidency University, Bangalore",Bangalore,46,45,Electical and Electonics Engineering,No
+537,"Presidency University, Bangalore",Bangalore,71,45,Electical and Electonics Engineering,Yes
+538,REVA University,Bangalore,45,50,Electical and Electonics Engineering,Yes
+539,REVA University,Bangalore,45,50,Electronics and Communication Engineering,Yes
+540,REVA University,Bangalore,45,50,Civil Engineering,Yes
+541,REVA University,Bangalore,45,50,Mechanical Engineering,Yes
+542,REVA University,Bangalore,69,50,Electical and Electonics Engineering,Yes
+543,REVA University,Bangalore,81,50,Electical and Electonics Engineering,Yes
+544,REVA University,Bangalore,50,50,Electical and Electonics Engineering,Yes
+545,REVA University,Bangalore,50,50,Electronics and Communication Engineering,Yes
+546,REVA University,Bangalore,81,50,Electronics and Communication Engineering,Yes
+547,REVA University,Bangalore,71,50,Civil Engineering,Yes
+548,REVA University,Bangalore,52,50,Civil Engineering,Yes
+549,REVA University,Bangalore,69,50,Civil Engineering,Yes
+550,REVA University,Bangalore,87,50,Civil Engineering,Yes
+551,REVA University,Bangalore,60,50,Mechanical Engineering,Yes
+552,REVA University,Bangalore,54,50,Mechanical Engineering,Yes
+553,REVA University,Bangalore,75,50,Mechanical Engineering,Yes
+554,REVA University,Bangalore,16,50,Electical and Electonics Engineering,No
+555,REVA University,Bangalore,36,50,Electronics and Communication Engineering,No
+556,REVA University,Bangalore,40,50,Civil Engineering,No
+557,REVA University,Bangalore,18,50,Civil Engineering,No
+558,REVA University,Bangalore,27,50,Civil Engineering,No
+559,REVA University,Bangalore,34,50,Mechanical Engineering,No
+560,REVA University,Bangalore,29,50,Mechanical Engineering,No
+561,REVA University,Bangalore,43,50,Mechanical Engineering,No
+562,REVA University,Bangalore,40,50,Electical and Electonics Engineering,No
+563,REVA University,Bangalore,38,50,Electical and Electonics Engineering,No
+564,REVA University,Bangalore,40,50,Electronics and Communication Engineering,No
+565,REVA University,Bangalore,29,50,Electronics and Communication Engineering,No
+566,REVA University,Bangalore,35,50,Civil Engineering,No
+567,REVA University,Bangalore,16,50,Mechanical Engineering,No
+568,REVA University,Bangalore,29,50,Electical and Electonics Engineering,No
+569,REVA University,Bangalore,34,50,Electical and Electonics Engineering,No
+570,REVA University,Bangalore,78,50,Electronics and Communication Engineering,Yes
+571,REVA University,Bangalore,65,50,Electronics and Communication Engineering,Yes
+572,REVA University,Bangalore,25,50,Electronics and Communication Engineering,No
+573,REVA University,Bangalore,9,50,Electronics and Communication Engineering,No
+574,Sathyabama Institute of Science and Technology,Chennai,45,45,Computer Science and Engineering,Yes
+575,Sathyabama Institute of Science and Technology,Chennai,45,45,Electical and Electonics Engineering,Yes
+576,Sathyabama Institute of Science and Technology,Chennai,45,45,Electronics and Communication Engineering,Yes
+577,Sathyabama Institute of Science and Technology,Chennai,45,45,Civil Engineering,Yes
+578,Sathyabama Institute of Science and Technology,Chennai,45,45,Mechanical Engineering,Yes
+579,Sathyabama Institute of Science and Technology,Chennai,73,45,Computer Science and Engineering,Yes
+580,Sathyabama Institute of Science and Technology,Chennai,86,45,Computer Science and Engineering,Yes
+581,Sathyabama Institute of Science and Technology,Chennai,55,45,Computer Science and Engineering,Yes
+582,Sathyabama Institute of Science and Technology,Chennai,86,45,Electical and Electonics Engineering,Yes
+583,Sathyabama Institute of Science and Technology,Chennai,58,45,Electronics and Communication Engineering,Yes
+584,Sathyabama Institute of Science and Technology,Chennai,78,45,Electronics and Communication Engineering,Yes
+585,Sathyabama Institute of Science and Technology,Chennai,69,45,Electronics and Communication Engineering,Yes
+586,Sathyabama Institute of Science and Technology,Chennai,64,45,Civil Engineering,Yes
+587,Sathyabama Institute of Science and Technology,Chennai,76,45,Civil Engineering,Yes
+588,Sathyabama Institute of Science and Technology,Chennai,68,45,Mechanical Engineering,Yes
+589,Sathyabama Institute of Science and Technology,Chennai,77,45,Mechanical Engineering,Yes
+590,Sathyabama Institute of Science and Technology,Chennai,19,45,Mechanical Engineering,No
+591,Sathyabama Institute of Science and Technology,Chennai,55,45,Mechanical Engineering,Yes
+592,Sathyabama Institute of Science and Technology,Chennai,40,45,Computer Science and Engineering,No
+593,Sathyabama Institute of Science and Technology,Chennai,40,45,Electical and Electonics Engineering,No
+594,Sathyabama Institute of Science and Technology,Chennai,35,45,Electronics and Communication Engineering,No
+595,Sathyabama Institute of Science and Technology,Chennai,15,45,Civil Engineering,No
+596,Sathyabama Institute of Science and Technology,Chennai,29,45,Civil Engineering,No
+597,Sathyabama Institute of Science and Technology,Chennai,40,45,Civil Engineering,No
+598,Sathyabama Institute of Science and Technology,Chennai,29,45,Mechanical Engineering,No
+599,Sathyabama Institute of Science and Technology,Chennai,34,45,Mechanical Engineering,No
+600,Sathyabama Institute of Science and Technology,Chennai,33,45,Computer Science and Engineering,No
+601,Sathyabama Institute of Science and Technology,Chennai,37,45,Electical and Electonics Engineering,No
+602,Sathyabama Institute of Science and Technology,Chennai,15,45,Electical and Electonics Engineering,No
+603,Sathyabama Institute of Science and Technology,Chennai,39,45,Electronics and Communication Engineering,No
+604,Sathyabama Institute of Science and Technology,Chennai,43,45,Electronics and Communication Engineering,No
+605,Sathyabama Institute of Science and Technology,Chennai,36,45,Civil Engineering,No
+606,Sathyabama Institute of Science and Technology,Chennai,40,45,Mechanical Engineering,No
+607,Sathyabama Institute of Science and Technology,Chennai,25,45,Electical and Electonics Engineering,No
+608,Sathyabama Institute of Science and Technology,Chennai,57,45,Electical and Electonics Engineering,Yes
+609,Sathyabama Institute of Science and Technology,Chennai,70,45,Electical and Electonics Engineering,Yes
+610,Sathyabama Institute of Science and Technology,Chennai,19,45,Computer Science and Engineering,No
+611,Sathyabama Institute of Science and Technology,Chennai,21,45,Computer Science and Engineering,No
+612,Sathyabama Institute of Science and Technology,Chennai,27,45,Electronics and Communication Engineering,No
+613,Savitribai Phule Pune University,Pune,55,55,Computer Science and Engineering,Yes
+614,Savitribai Phule Pune University,Pune,55,55,Electical and Electonics Engineering,Yes
+615,Savitribai Phule Pune University,Pune,55,55,Electronics and Communication Engineering,Yes
+616,Savitribai Phule Pune University,Pune,55,55,Mechanical Engineering,Yes
+617,Savitribai Phule Pune University,Pune,74,55,Computer Science and Engineering,Yes
+618,Savitribai Phule Pune University,Pune,89,55,Computer Science and Engineering,Yes
+619,Savitribai Phule Pune University,Pune,60,55,Computer Science and Engineering,Yes
+620,Savitribai Phule Pune University,Pune,64,55,Electical and Electonics Engineering,Yes
+621,Savitribai Phule Pune University,Pune,79,55,Electical and Electonics Engineering,Yes
+622,Savitribai Phule Pune University,Pune,52,55,Electical and Electonics Engineering,No
+623,Savitribai Phule Pune University,Pune,95,55,Electical and Electonics Engineering,Yes
+624,Savitribai Phule Pune University,Pune,69,55,Electronics and Communication Engineering,Yes
+625,Savitribai Phule Pune University,Pune,75,55,Electronics and Communication Engineering,Yes
+626,Savitribai Phule Pune University,Pune,88,55,Electronics and Communication Engineering,Yes
+627,Savitribai Phule Pune University,Pune,61,55,Mechanical Engineering,Yes
+628,Savitribai Phule Pune University,Pune,74,55,Mechanical Engineering,Yes
+629,Savitribai Phule Pune University,Pune,79,55,Mechanical Engineering,Yes
+630,Savitribai Phule Pune University,Pune,93,55,Mechanical Engineering,Yes
+631,Savitribai Phule Pune University,Pune,85,55,Mechanical Engineering,Yes
+632,Savitribai Phule Pune University,Pune,66,55,Computer Science and Engineering,Yes
+633,Savitribai Phule Pune University,Pune,50,55,Computer Science and Engineering,No
+634,Savitribai Phule Pune University,Pune,10,55,Computer Science and Engineering,No
+635,Savitribai Phule Pune University,Pune,30,55,Computer Science and Engineering,No
+636,Savitribai Phule Pune University,Pune,27,55,Computer Science and Engineering,No
+637,Savitribai Phule Pune University,Pune,45,55,Computer Science and Engineering,No
+638,Savitribai Phule Pune University,Pune,23,55,Electical and Electonics Engineering,No
+639,Savitribai Phule Pune University,Pune,39,55,Electronics and Communication Engineering,No
+640,Savitribai Phule Pune University,Pune,39,55,Mechanical Engineering,No
+641,Savitribai Phule Pune University,Pune,36,55,Computer Science and Engineering,No
+642,Savitribai Phule Pune University,Pune,49,55,Electical and Electonics Engineering,No
+643,Savitribai Phule Pune University,Pune,36,55,Electical and Electonics Engineering,No
+644,Savitribai Phule Pune University,Pune,48,55,Electronics and Communication Engineering,No
+645,Savitribai Phule Pune University,Pune,47,55,Mechanical Engineering,No
+646,Savitribai Phule Pune University,Pune,29,55,Mechanical Engineering,No
+647,Savitribai Phule Pune University,Pune,52,55,Mechanical Engineering,No
+648,Savitribai Phule Pune University,Pune,17,55,Mechanical Engineering,No
+649,Savitribai Phule Pune University,Pune,50,55,Mechanical Engineering,No
+650,Savitribai Phule Pune University,Pune,22,55,Electronics and Communication Engineering,No
+651,Savitribai Phule Pune University,Pune,30,55,Electronics and Communication Engineering,No
+652,SRM Institute of Science and Technology,Chennai,50,60,Computer Science and Engineering,Yes
+653,SRM Institute of Science and Technology,Chennai,50,60,Electical and Electonics Engineering,Yes
+654,SRM Institute of Science and Technology,Chennai,50,60,Electronics and Communication Engineering,Yes
+655,SRM Institute of Science and Technology,Chennai,50,60,Civil Engineering,Yes
+656,SRM Institute of Science and Technology,Chennai,50,60,Mechanical Engineering,Yes
+657,SRM Institute of Science and Technology,Chennai,75,60,Computer Science and Engineering,Yes
+658,SRM Institute of Science and Technology,Chennai,92,60,Computer Science and Engineering,Yes
+659,SRM Institute of Science and Technology,Chennai,89,60,Computer Science and Engineering,Yes
+660,SRM Institute of Science and Technology,Chennai,62,60,Computer Science and Engineering,Yes
+661,SRM Institute of Science and Technology,Chennai,75,60,Electical and Electonics Engineering,Yes
+662,SRM Institute of Science and Technology,Chennai,88,60,Electical and Electonics Engineering,Yes
+663,SRM Institute of Science and Technology,Chennai,60,60,Electical and Electonics Engineering,Yes
+664,SRM Institute of Science and Technology,Chennai,65,60,Electronics and Communication Engineering,Yes
+665,SRM Institute of Science and Technology,Chennai,78,60,Civil Engineering,Yes
+666,SRM Institute of Science and Technology,Chennai,83,60,Civil Engineering,Yes
+667,SRM Institute of Science and Technology,Chennai,69,60,Civil Engineering,Yes
+668,SRM Institute of Science and Technology,Chennai,75,60,Mechanical Engineering,Yes
+669,SRM Institute of Science and Technology,Chennai,88,60,Mechanical Engineering,Yes
+670,SRM Institute of Science and Technology,Chennai,69,60,Mechanical Engineering,Yes
+671,SRM Institute of Science and Technology,Chennai,31,60,Computer Science and Engineering,No
+672,SRM Institute of Science and Technology,Chennai,39,60,Electical and Electonics Engineering,No
+673,SRM Institute of Science and Technology,Chennai,39,60,Electronics and Communication Engineering,No
+674,SRM Institute of Science and Technology,Chennai,47,60,Civil Engineering,No
+675,SRM Institute of Science and Technology,Chennai,36,60,Mechanical Engineering,No
+676,SRM Institute of Science and Technology,Chennai,22,60,Computer Science and Engineering,No
+677,SRM Institute of Science and Technology,Chennai,15,60,Computer Science and Engineering,No
+678,SRM Institute of Science and Technology,Chennai,47,60,Computer Science and Engineering,No
+679,SRM Institute of Science and Technology,Chennai,39,60,Computer Science and Engineering,No
+680,SRM Institute of Science and Technology,Chennai,25,60,Electical and Electonics Engineering,No
+681,SRM Institute of Science and Technology,Chennai,48,60,Electical and Electonics Engineering,No
+682,SRM Institute of Science and Technology,Chennai,10,60,Electical and Electonics Engineering,No
+683,SRM Institute of Science and Technology,Chennai,45,60,Electronics and Communication Engineering,No
+684,SRM Institute of Science and Technology,Chennai,19,60,Electronics and Communication Engineering,No
+685,SRM Institute of Science and Technology,Chennai,26,60,Electronics and Communication Engineering,No
+686,SRM Institute of Science and Technology,Chennai,29,60,Civil Engineering,No
+687,SRM Institute of Science and Technology,Chennai,22,60,Civil Engineering,No
+688,SRM Institute of Science and Technology,Chennai,36,60,Civil Engineering,No
+689,SRM Institute of Science and Technology,Chennai,46,60,Mechanical Engineering,No
+690,SRM Institute of Science and Technology,Chennai,42,60,Mechanical Engineering,No
+691,SRM Institute of Science and Technology,Chennai,24,60,Mechanical Engineering,No
+692,SRM Institute of Science and Technology,Chennai,86,60,Electronics and Communication Engineering,Yes
+693,SRM Institute of Science and Technology,Chennai,72,60,Electronics and Communication Engineering,Yes
+694,Techno India University,Kolkata,60,60,Civil Engineering,Yes
+695,Techno India University,Kolkata,74,60,Civil Engineering,Yes
+696,Techno India University,Kolkata,82,60,Civil Engineering,Yes
+697,Techno India University,Kolkata,69,60,Civil Engineering,Yes
+698,Techno India University,Kolkata,51,60,Civil Engineering,No
+699,Techno India University,Kolkata,58,60,Civil Engineering,No
+700,Techno India University,Kolkata,39,60,Civil Engineering,No
+701,Techno India University,Kolkata,25,60,Civil Engineering,No
+702,Techno India University,Kolkata,46,60,Civil Engineering,No
+703,University of Delhi,New Delhi,50,45,Computer Science and Engineering,Yes
+704,University of Delhi,New Delhi,50,45,Electronics and Communication Engineering,Yes
+705,University of Delhi,New Delhi,74,45,Computer Science and Engineering,Yes
+706,University of Delhi,New Delhi,87,45,Computer Science and Engineering,Yes
+707,University of Delhi,New Delhi,60,45,Computer Science and Engineering,Yes
+708,University of Delhi,New Delhi,80,45,Electronics and Communication Engineering,Yes
+709,University of Delhi,New Delhi,76,45,Electronics and Communication Engineering,Yes
+710,University of Delhi,New Delhi,63,45,Electronics and Communication Engineering,Yes
+711,University of Delhi,New Delhi,29,45,Computer Science and Engineering,No
+712,University of Delhi,New Delhi,33,45,Computer Science and Engineering,No
+713,University of Delhi,New Delhi,39,45,Computer Science and Engineering,No
+714,University of Delhi,New Delhi,38,45,Electronics and Communication Engineering,No
+715,University of Delhi,New Delhi,42,45,Computer Science and Engineering,No
+716,University of Delhi,New Delhi,46,45,Electronics and Communication Engineering,No
+717,University of Delhi,New Delhi,26,45,Electronics and Communication Engineering,No
+718,University of Delhi,New Delhi,33,45,Electronics and Communication Engineering,No
+719,University of Hyderabad,Hyderabad,60,60,Computer Science and Engineering,Yes
+720,University of Hyderabad,Hyderabad,60,60,Electronics and Communication Engineering,Yes
+721,University of Hyderabad,Hyderabad,79,60,Computer Science and Engineering,Yes
+722,University of Hyderabad,Hyderabad,65,60,Computer Science and Engineering,Yes
+723,University of Hyderabad,Hyderabad,71,60,Electronics and Communication Engineering,Yes
+724,University of Hyderabad,Hyderabad,64,60,Electronics and Communication Engineering,Yes
+725,University of Hyderabad,Hyderabad,85,60,Electronics and Communication Engineering,Yes
+726,University of Hyderabad,Hyderabad,19,60,Computer Science and Engineering,No
+727,University of Hyderabad,Hyderabad,43,60,Electronics and Communication Engineering,No
+728,University of Hyderabad,Hyderabad,38,60,Computer Science and Engineering,No
+729,University of Hyderabad,Hyderabad,35,60,Electronics and Communication Engineering,No
+730,University of Hyderabad,Hyderabad,46,60,Computer Science and Engineering,No
+731,University of Hyderabad,Hyderabad,89,60,Computer Science and Engineering,Yes
+732,University of Hyderabad,Hyderabad,51,60,Computer Science and Engineering,No
+733,University of Hyderabad,Hyderabad,22,60,Electronics and Communication Engineering,No
+734,University of Hyderabad,Hyderabad,51,60,Electronics and Communication Engineering,No
+735,Vellore Institute of Technology,Vellore,55,55,Computer Science and Engineering,Yes
+736,Vellore Institute of Technology,Vellore,55,55,Electical and Electonics Engineering,Yes
+737,Vellore Institute of Technology,Vellore,55,55,Electronics and Communication Engineering,Yes
+738,Vellore Institute of Technology,Vellore,55,55,Civil Engineering,Yes
+739,Vellore Institute of Technology,Vellore,55,55,Mechanical Engineering,Yes
+740,Vellore Institute of Technology,Vellore,84,55,Computer Science and Engineering,Yes
+741,Vellore Institute of Technology,Vellore,67,55,Computer Science and Engineering,Yes
+742,Vellore Institute of Technology,Vellore,81,55,Electical and Electonics Engineering,Yes
+743,Vellore Institute of Technology,Vellore,74,55,Electical and Electonics Engineering,Yes
+744,Vellore Institute of Technology,Vellore,10,55,Electical and Electonics Engineering,No
+745,Vellore Institute of Technology,Vellore,69,55,Electical and Electonics Engineering,Yes
+746,Vellore Institute of Technology,Vellore,74,55,Electronics and Communication Engineering,Yes
+747,Vellore Institute of Technology,Vellore,96,55,Electronics and Communication Engineering,Yes
+748,Vellore Institute of Technology,Vellore,68,55,Civil Engineering,Yes
+749,Vellore Institute of Technology,Vellore,85,55,Civil Engineering,Yes
+750,Vellore Institute of Technology,Vellore,84,55,Mechanical Engineering,Yes
+751,Vellore Institute of Technology,Vellore,76,55,Mechanical Engineering,Yes
+752,Vellore Institute of Technology,Vellore,72,55,Computer Science and Engineering,Yes
+753,Vellore Institute of Technology,Vellore,33,55,Computer Science and Engineering,No
+754,Vellore Institute of Technology,Vellore,38,55,Electical and Electonics Engineering,No
+755,Vellore Institute of Technology,Vellore,52,55,Electronics and Communication Engineering,No
+756,Vellore Institute of Technology,Vellore,27,55,Electronics and Communication Engineering,No
+757,Vellore Institute of Technology,Vellore,35,55,Electronics and Communication Engineering,No
+758,Vellore Institute of Technology,Vellore,73,55,Civil Engineering,Yes
+759,Vellore Institute of Technology,Vellore,50,55,Civil Engineering,No
+760,Vellore Institute of Technology,Vellore,29,55,Civil Engineering,No
+761,Vellore Institute of Technology,Vellore,40,55,Civil Engineering,No
+762,Vellore Institute of Technology,Vellore,34,55,Civil Engineering,No
+763,Vellore Institute of Technology,Vellore,50,55,Mechanical Engineering,No
+764,Vellore Institute of Technology,Vellore,44,55,Mechanical Engineering,No
+765,Vellore Institute of Technology,Vellore,26,55,Mechanical Engineering,No
+766,Vellore Institute of Technology,Vellore,51,55,Computer Science and Engineering,No
+767,Vellore Institute of Technology,Vellore,45,55,Computer Science and Engineering,No
+768,Vellore Institute of Technology,Vellore,16,55,Computer Science and Engineering,No
+769,Vellore Institute of Technology,Vellore,47,55,Electical and Electonics Engineering,No
+770,Vellore Institute of Technology,Vellore,50,55,Electical and Electonics Engineering,No
+771,Vellore Institute of Technology,Vellore,20,55,Electical and Electonics Engineering,No
+772,Vellore Institute of Technology,Vellore,48,55,Electronics and Communication Engineering,No
+773,Vellore Institute of Technology,Vellore,53,55,Civil Engineering,No
+774,Vellore Institute of Technology,Vellore,35,55,Mechanical Engineering,No
+775,Vellore Institute of Technology,Vellore,68,55,Electronics and Communication Engineering,Yes
+776,Visvesvaraya National Institute of Technology,Nagpur,75,65,Electical and Electonics Engineering,Yes
+777,Visvesvaraya National Institute of Technology,Nagpur,78,65,Electical and Electonics Engineering,Yes
+778,Visvesvaraya National Institute of Technology,Nagpur,32,65,Electical and Electonics Engineering,No
+779,Visvesvaraya National Institute of Technology,Nagpur,66,65,Electical and Electonics Engineering,No
+780,Visvesvaraya National Institute of Technology,Nagpur,45,65,Electical and Electonics Engineering,No
+781,Visvesvaraya National Institute of Technology,Nagpur,56,65,Electical and Electonics Engineering,No
+782,Visvesvaraya National Institute of Technology,Nagpur,85,65,Electical and Electonics Engineering,Yes
+783,Yashwantrao Chavan Maharashtra Open University,Sawargaon,45,40,Computer Science and Engineering,Yes
+784,Yashwantrao Chavan Maharashtra Open University,Sawargaon,69,40,Computer Science and Engineering,Yes
+785,Yashwantrao Chavan Maharashtra Open University,Sawargaon,52,40,Computer Science and Engineering,Yes
+786,Yashwantrao Chavan Maharashtra Open University,Sawargaon,42,40,Computer Science and Engineering,No
+787,Yashwantrao Chavan Maharashtra Open University,Sawargaon,35,40,Computer Science and Engineering,No
+788,Yashwantrao Chavan Maharashtra Open University,Sawargaon,89,40,Computer Science and Engineering,Yes
+789,Yashwantrao Chavan Maharashtra Open University,Sawargaon,21,40,Computer Science and Engineering,No
